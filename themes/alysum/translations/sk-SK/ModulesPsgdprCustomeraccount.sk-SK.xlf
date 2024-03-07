@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/modules/psgdpr/views/templates/front/customerAccount.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="5868129c4526891dddb05b8e59c33572">
+        <source>GDPR - Personal data</source>
+        <target>GDPR - Personal data</target>
+        <note>Line: 19</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

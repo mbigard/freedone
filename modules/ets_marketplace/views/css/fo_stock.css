@@ -1,0 +1,35 @@
+.list-mp_stocks .quantity .qty-update {
+    color: #25b9d7;
+}
+#list-mp_stocks td.image img {
+    width: 60px;
+}
+.list-mp_stocks .edit_quantity button.check-button {
+    background: #3ed2f0;
+    border: none;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    top: 0;
+    min-width: 34px;
+    height: 100%;
+    cursor: pointer;
+}
+.list-mp_stocks .edit_quantity .check-button[disabled="disabled"] {
+    background: #bbcdd2;
+    cursor: default;
+    border: none;
+    color: #fff;
+}
+.list-mp_stocks #list-mp_stocks td.name {
+    width: 35%;
+}
+.list-mp_stocks .name:first-letter {
+    text-transform: uppercase;
+}
+.list-mp_stocks #list-mp_stocks .input {
+    width: 90px;
+}
+.list-mp_stocks #list-mp_stocks .supplier_name {
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="xt3z45LuD" source-language="sv-SE" target-language="sv-SE" datatype="plaintext">
+    <body>
+      <trans-unit id="bc82c84acc0c68f760ecd5bac0dddc7d">
+        <source>Your e-mail address</source>
+        <target>Din e-post adress</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="835a161d154c0f5f57ae5d4e2ba7ca81">
+        <source>Stay up to date</source>
+        <target>Hålla dig uppdaterad</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

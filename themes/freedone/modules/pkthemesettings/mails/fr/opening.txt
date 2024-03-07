@@ -1,0 +1,2 @@
+Salut!
+Nous sommes ouverts! Bienvenue sur notre boutique {shop_url}

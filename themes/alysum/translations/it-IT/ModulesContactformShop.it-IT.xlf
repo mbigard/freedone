@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminstatus" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="d85236bf435afbc0060dec82b9ef80b3">
+        <source>Customer service - Contact us</source>
+        <target>Servizio clienti - Contattaci</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cc5fd9b9f1cad59fcff97a1f21f34304">
+        <source>Send a message</source>
+        <target>Invia un messaggio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6c27c08f40e1b0d9901deb9ff5f722f7">
+        <source>Subject Heading</source>
+        <target>Titolo dell'argomento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="863cf84b34def228394c03c156bff42c">
+        <source>Select reference</source>
+        <target>Seleziona il riferimento</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="13d6078da2e6592822ede083931d6826">
+        <source>Attach File</source>
+        <target>Allega File</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target>Indirizzo Email</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4">
+        <source>Message</source>
+        <target>Messaggio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d">
+        <source>Send Message</source>
+        <target>Inviare il messaggio</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7c10f7585dd525c5fab29a65b0f313c4">
+        <source>Our Location</source>
+        <target>La nostra sede</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5dd532f0a63d89c5af0243b74732f63c">
+        <source>Contact details</source>
+        <target>Dettagli del contatto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contattaci</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bcc254b55c4a1babdf1dcb82c207506b">
+        <source>Phone</source>
+        <target>Telefono</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9810aa2b9f44401be4bf73188ef2b67d">
+        <source>Fax</source>
+        <target>Fax</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0576a72837405ddccc10d3ad0eb9d773">
+        <source>24/h customer service</source>
+        <target>servizio clienti 24 ore su 24</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="06547581759c3a7c16ffd5076bfe307f">
+        <source>We providing really fast and professional support</source>
+        <target>Forniamo un supporto davvero veloce e professionale</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Košík</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Lodní doprava</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
+        <source>Checkout</source>
+        <target>Pokladna</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

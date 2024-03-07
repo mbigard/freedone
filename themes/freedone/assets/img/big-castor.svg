@@ -1,0 +1,51 @@
+<svg id="Groupe_646" data-name="Groupe 646" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223.033" height="247" viewBox="0 0 223.033 247">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_6922" data-name="Tracé 6922" d="M437.594,311.212V475.319a36.643,36.643,0,0,1-36.647,36.647H251.208a36.624,36.624,0,0,1-36.647-36.647V311.212a36.239,36.239,0,0,1,3.956-16.509c-5.592-9.727-4.462-21.238,3.064-26.741,7.972-5.86,20.2-2.856,27.812,6.663.595-.06,1.22-.06,1.814-.06h149.74c.625,0,1.22.03,1.814.06,7.615-9.519,19.84-12.523,27.812-6.663,7.526,5.5,8.656,16.985,3.064,26.712A36.363,36.363,0,0,1,437.594,311.212Z" transform="translate(-214.561 -264.966)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f17b37"/>
+      <stop offset="0.06" stop-color="#e07233"/>
+      <stop offset="0.313" stop-color="#9e5226"/>
+      <stop offset="0.543" stop-color="#69381b"/>
+      <stop offset="0.742" stop-color="#432514"/>
+      <stop offset="0.9" stop-color="#2c1a0f"/>
+      <stop offset="1" stop-color="#24160e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e9e6e7"/>
+      <stop offset="0.14" stop-color="#c7c3c4"/>
+      <stop offset="0.447" stop-color="#827d7d"/>
+      <stop offset="0.702" stop-color="#4f4a49"/>
+      <stop offset="0.894" stop-color="#302a29"/>
+      <stop offset="1" stop-color="#251f1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e9e6e7"/>
+      <stop offset="1" stop-color="#251f1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d5bfa5"/>
+      <stop offset="0.244" stop-color="#d6c1a8"/>
+      <stop offset="0.446" stop-color="#dbc8b2"/>
+      <stop offset="0.633" stop-color="#e3d4c3"/>
+      <stop offset="0.811" stop-color="#eee6dc"/>
+      <stop offset="0.982" stop-color="#fdfcfb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_642" data-name="Groupe 642">
+    <g id="Groupe_641" data-name="Groupe 641" clip-path="url(#clip-path)">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="1237.331" height="389.181" transform="translate(-425.79 -76.202)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Groupe_645" data-name="Groupe 645" transform="translate(28.089 126.414)">
+    <g id="Groupe_643" data-name="Groupe 643" transform="translate(61.936 58.149)">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="21.486" height="57.279" rx="3.612" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="21.486" height="57.279" rx="3.612" transform="translate(21.486)" fill="url(#linear-gradient-3)"/>
+    </g>
+    <g id="Groupe_644" data-name="Groupe 644">
+      <path id="Tracé_6923" data-name="Tracé 6923" d="M390.847,325.252v45.332a17.8,17.8,0,0,1-17.788,17.788H325.2a17.8,17.8,0,0,1-17.788-17.788,17.779,17.779,0,0,1-17.788,17.788H241.792A17.8,17.8,0,0,1,224,370.584V325.252a17.8,17.8,0,0,1,17.788-17.788h47.831a17.779,17.779,0,0,1,17.788,17.788A17.8,17.8,0,0,1,325.2,307.464H373.06A17.8,17.8,0,0,1,390.847,325.252Z" transform="translate(-224.004 -307.464)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>

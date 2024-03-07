@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminstatus" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="1625e29c02062efe5dbc42c3efeeebc4">
+        <source>-- please choose --</source>
+        <target>-- per favore scegli --</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="93332134fd11cffbe680dd8afaa521fc">
+        <source>-- day --</source>
+        <target>-- giorno --</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9180b4d5ab8103f244c2d4fd661934e2">
+        <source>-- month --</source>
+        <target>-- mese --</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ae1cc541ba45ce670ea7e0e3a30e3205">
+        <source>-- year --</source>
+        <target>-- anno --</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ebb061953c0454b2c8ee7b0ac615ebcd">
+        <source>Optional</source>
+        <target>Opzionale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dc647eb65e6711e155375218212b3964">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3544848f820b9d94a3f3871a382cf138">
+        <source>New password</source>
+        <target>Nuova password</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4d1ea475eaa85102e2b4e6d95da84bd">
+        <source>Confirmation</source>
+        <target>Confermare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8afb32a59ef40599bd8991dd1e5feb21">
+        <source>-- please choose a product --</source>
+        <target>-- per favore scegli un prodotto --</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target>Indirizzo e-mail</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="63c193f613dd3d9d6c16da7678efda2a">
+        <source>Order Reference:</source>
+        <target>Riferimento ordine:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6a1e265f92087bb6dd18194833fe946b">
+        <source>Email:</source>
+        <target>Email:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3b6bf3c0c07b89dc86f415117a1f0b80">
+        <source>Set your password:</source>
+        <target>Imposta la tua password:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Prodotto</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

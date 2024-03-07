@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/templates/checkout/_partials/footer.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="9fcba387b581ec9abcbff15e62317da5">
+        <source>Ecommerce software by</source>
+        <target>Software de comercio electrónico</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/footer.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/cms/stores.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="34c869c542dee932ef8cd96d2f91cae6">
+        <source>Our stores</source>
+        <target>Nuestras Tiendas</target>
+        <note>Context:
+File: themes/alysum/templates/cms/stores.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="adc4f9f9cccaa450c10977d50da58d8d">
+        <source>About and Contact</source>
+        <target>Acerca y Contacto</target>
+        <note>Context:
+File: themes/alysum/templates/cms/stores.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/cms/sitemap.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="5813ce0ec7196c492c97596718f71969">
+        <source>Sitemap</source>
+        <target>Mapa del sitio</target>
+        <note>Context:
+File: themes/alysum/templates/cms/sitemap.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/cms/category.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6c5c05a5b907385c60c3baa4087ea1a1">
+        <source>List of sub categories in %name%:</source>
+        <target>Lista de subcategorías en %name%:</target>
+        <note>Context:
+File: themes/alysum/templates/cms/category.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="51af726259b3283f6b53613165f95697">
+        <source>List of pages in %name%:</source>
+        <target>Lista de páginas en %name%:</target>
+        <note>Context:
+File: themes/alysum/templates/cms/category.tpl:45</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/errors/restricted-country.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6351030f724f6f42fd11ec9aa6ee8c76">
+        <source>403 Forbidden</source>
+        <target>403 Prohibido</target>
+        <note>Context:
+File: themes/alysum/templates/errors/restricted-country.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="cf8092a0be7b972d6cee3db90bfaf923">
+        <source>You cannot access this store from your country. We apologize for the inconvenience.</source>
+        <target>No puede acceder a esta tienda desde su país. Nos disculpamos por el inconveniente.</target>
+        <note>Context:
+File: themes/alysum/templates/errors/restricted-country.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/errors/maintenance.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="67a85af5606b56368616ddd14694190d">
+        <source>Our website is almost ready.</source>
+        <target>Nuestro sitio web está casi listo.</target>
+        <note>Context:
+File: themes/alysum/templates/errors/maintenance.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/errors/not-found.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="c62420fe56ba1bd9be3bad2d6203a28e">
+        <source>404 error</source>
+        <target>Error 404</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="5e4ace6a96971949d519e8b1885652aa">
+        <source>This page</source>
+        <target>Esta página</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="bb6fa703fe7d9bb63ab77a746a775be8">
+        <source>cannot be found</source>
+        <target>no pudo ser encontrado</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/facets.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="7a1c5301da6b1ce9e4345bd501397045">
+        <source>(no filter)</source>
+        <target>(sin filtro)</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/facets.tpl:134</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/sort-orders.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6f9d01a14011f05fffe48559583fc609">
+        <source>Sort by:</source>
+        <target>Ordenar por:</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/sort-orders.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/active_filters.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="2143f8cb66482342b35208bdc3fd949c">
+        <source>Active filters</source>
+        <target>Filtros activos</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/active_filters.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/cart-summary.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="06c883a79771ecda24de1687ed7915ba">
+        <source>Show Details</source>
+        <target>Mostrar detalles</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/cart-summary.tpl:37</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/_partials/my-account-links.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Casa</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/my-account-links.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/order-detail.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="44749712dbec183e983dcd78a7736c41">
+        <source>Date</source>
+        <target>Fecha</target>
+        <note>Context:
+File: themes/alysum/templates/customer/order-detail.tpl:188</note>
+      </trans-unit>
+      <trans-unit id="ec53a8c4f07baed5d8825072c89799be">
+        <source>Status</source>
+        <target>Estado</target>
+        <note>Context:
+File: themes/alysum/templates/customer/order-detail.tpl:89</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/modules/ps_languageselector/ps_languageselector.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <source>Language</source>
+        <target>Idioma:</target>
+        <note>Context:
+File: themes/alysum/modules/ps_languageselector/ps_languageselector.tpl:4</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/modules/ps_customersignin/ps_customersignin.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b">
+        <source>or</source>
+        <target>o</target>
+        <note>Context:
+File: themes/alysum/modules/ps_customersignin/ps_customersignin.tpl:9</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/modules/ps_currencyselector/ps_currencyselector.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="386c339d37e737a436499d423a77df0c">
+        <source>Currency</source>
+        <target>Moneda:</target>
+        <note>Context:
+File: themes/alysum/modules/ps_currencyselector/ps_currencyselector.tpl:4</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/header.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="96d6f2e7e1f705ab5e59c84a6dc009b2">
+        <source>logo</source>
+        <target>logo</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/header.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/_partials/headers/header-1.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Buscar</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/headers/header-1.tpl:21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin849iewvwh" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="6a1e265f92087bb6dd18194833fe946b">
+        <source>Email:</source>
+        <target>Email:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="0e2fb5b02182fd28b9b96e86ed27838f">
+        <source>Fax:</source>
+        <target>Fax:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="c6359db4a43cb7267a84b389229fd073">
+        <source>Call us: [1]%phone%[/1]</source>
+        <target>Llámanos: [1]%phone%[/1]</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="da6eb684bd77243a780629a180c9d19b">
+        <source>Fax: [1]%fax%[/1]</source>
+        <target>Fax: [1]%fax%[/1]</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="077d21d48dae9586405c0d264f6d32e7">
+        <source>Email us: [1]%email%[/1]</source>
+        <target>Envíanos un correo electrónico: [1]%email%[/1]</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="1300caaefd15b839f37952dc7cc75d82">
+        <source>Call us:</source>
+        <target>Llámanos:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="f4a0d7cb0cd45214c8ca5912c970de13">
+        <source>Tax included</source>
+        <target>IVA incluido</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="e3ddbe6b144e01554bfa072db9bcca2f">
+        <source>(tax included)</source>
+        <target>(IVA incluido)</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="1f87346a16cf80c372065de3c54c86d9">
+        <source>(tax incl.)</source>
+        <target>(IVA incl.)</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf">
+        <source>Addresses</source>
+        <target>Direcciones</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="6adf97f83acf6453d4a6a4b1070f3754">
+        <source>None</source>
+        <target>Ninguna</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Si</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="e06d7593c1cd6dabef450be6c3da7091">
+        <source>Merchandise returns</source>
+        <target>Devoluciones de mercancía</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="f2fbecfb4e1f8fd471dcc0881d8518f1">
+        <source>The page you are looking for was not found.</source>
+        <target>La página que busca no se encontró.</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="c82004d1ded071651efc9f2138342c50">
+        <source>Our Offers</source>
+        <target>Nuestras ofertas</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="bffe9a3c9a7e00ba00a11749e022d911">
+        <source>Log in</source>
+        <target>Iniciar sesión</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="1aa668d559a3a32a44796aeee6978a59">
+        <source>Create new account</source>
+        <target>Crear una nueva cuenta</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="673ae02fffb72f0fe68a66f096a01347">
+        <source>Phone:</source>
+        <target>Teléfono:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="80a0c205cd57b22fca7f174253870300">
+        <source>Opening hours</source>
+        <target>Horario de apertura</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contáctenos</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="6f8522e0610541f1ef215a22ffa66ff6">
+        <source>Monday</source>
+        <target>lunes</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="5792315f09a5d54fb7e3d066672b507f">
+        <source>Tuesday</source>
+        <target>Martes</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="796c163589f295373e171842f37265d5">
+        <source>Wednesday</source>
+        <target>Miércoles</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="78ae6f0cd191d25147e252dc54768238">
+        <source>Thursday</source>
+        <target>Jueves</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="c33b138a163847cdb6caeeb7c9a126b4">
+        <source>Friday</source>
+        <target>Viernes</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="8b7051187b9191cdcdae6ed5a10e5adc">
+        <source>Saturday</source>
+        <target>Sábado</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="9d1a0949c39e66a0cd65240bc0ac9177">
+        <source>Sunday</source>
+        <target>Domingo</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="77295c7d814e7397c55f64ec06313984">
+        <source>Currency:</source>
+        <target>Moneda:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="a0bfe0853cf82bdf5dcb9b0bac76c357">
+        <source>Email us:</source>
+        <target>Envíanos un correo electrónico:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target>Anterior</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Siguiente</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="0885f0c211f74834f0109c5abaf4cdc4">
+        <source>Language:</source>
+        <target>Idioma:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="27b4383b976d6be981598d457cc7e62d">
+        <source>We'll be back soon.</source>
+        <target>Estaremos de vuelta pronto.</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="7e74146e0ff2e289abfc8bec1d2b2a18">
+        <source>Sorry for the inconvenience.</source>
+        <target>Lo siento por los inconvenientes ocasionados.</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

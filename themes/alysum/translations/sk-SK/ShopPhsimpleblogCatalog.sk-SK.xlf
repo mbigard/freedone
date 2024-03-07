@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/modules/blog/blogsingle.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="138b7c791213953a87e80575a666ae46">
+        <source>Post Gallery</source>
+        <target>Post Gallery</target>
+        <note>Line: 61</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

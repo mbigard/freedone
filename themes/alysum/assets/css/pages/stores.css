@@ -1,0 +1,93 @@
+#stores .page-stores {
+  width: 85%;
+  margin: 0 auto
+}
+#stores .page-stores .store-item {
+  padding-left: .75rem;
+  padding-right: .75rem;
+  border-bottom: 1px solid #ddd
+}
+#stores .page-stores .store-picture {
+  padding-left: 0
+}
+#stores .card-title {margin-top: 0}
+#stores .page-stores .store-picture img {
+  max-width: 100%
+}
+#stores .page-stores .store-item-container {
+  box-pack: distribute;
+  justify-content: space-around;
+  box-align: center;
+  padding: 1.875rem 0
+}
+#stores .page-stores .store-item-container ul {
+  margin-bottom: 0;
+  font-size: .9375rem
+}
+#stores .page-stores .store-item-container .divide-left {
+  border-left: 1px solid #ebebeb
+}
+#stores .page-stores .store-item-container .divide-left tr {
+  height: 1.5625rem
+}
+#stores .page-stores .store-item-container .divide-left td {
+  padding-left: .375rem
+}
+#stores .page-stores .store-item-container .divide-left th {
+  text-align: right
+}
+#stores .page-stores .store-item-container .store-description {
+  font-size: 1rem
+}
+#stores .page-stores .store-item-footer {
+  margin-top: .5rem;
+  padding-top: .5rem;
+  display: flex;
+  box-pack: distribute;
+  justify-content: space-around;
+}
+#stores .page-stores .store-item-footer.divide-top {
+  border-top: 1px solid #ebebeb
+}
+#stores .page-stores .store-item-footer div:first-child {
+  box-flex: 0;
+  flex: 0 0 65%
+}
+#stores .page-stores .store-item-footer li {
+  margin-bottom: .625rem
+}
+.store-item ul {list-style: none}
+
+@media (max-width:767px) {
+  #stores .page-stores {
+      width: 100%
+  }
+  #stores .page-stores .store-item-container {
+      padding: 1rem 0
+  }
+}
+
+@media (max-width:543px) {
+    #stores .page-stores .store-item-container {
+        display: block
+    }
+    #stores .page-stores .store-item-container .divide-left {
+        border-left: none
+    }
+    #stores .page-stores .store-item-container .store-description a,
+    #stores .page-stores .store-item-container .store-description address {
+        margin-bottom: .5rem
+    }
+    #stores .page-stores .store-item-footer {
+        display: block
+    }
+    #stores .page-stores .store-item-footer.divide-top {
+        border-top: 1px solid #ebebeb
+    }
+    #stores .page-stores .store-item-footer li {
+        margin-bottom: .625rem
+    }
+    #stores .page-stores .store-item-footer .card-block {
+        padding: .75rem .75rem 0
+    }
+}

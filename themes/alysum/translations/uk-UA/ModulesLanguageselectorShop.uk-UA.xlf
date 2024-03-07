@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/ps_languageselector/ps_languageselector.tpl" source-language="uk-UA" target-language="uk-UA" datatype="plaintext">
+    <body>
+      <trans-unit id="4994a8ffeba4ac3140beb89e8d41f174">
+        <source>Language</source>
+        <target>Мова</target>
+        <note>Context:
+File: themes/alysum/modules/ps_languageselector/ps_languageselector.tpl:4</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin849iewvwh" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contáctanos</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="77d117320b02d137e4d3aa7b4300d2f5">
+        <source>Use our form to contact us</source>
+        <target>Contáctanos</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

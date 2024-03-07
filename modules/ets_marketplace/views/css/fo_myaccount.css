@@ -1,0 +1,6 @@
+.page-my-account #content .links a svg {
+    fill: #232323!important;
+}
+.page-my-account #content .links a:hover svg {
+    fill: #24b9d7 !important;
+}

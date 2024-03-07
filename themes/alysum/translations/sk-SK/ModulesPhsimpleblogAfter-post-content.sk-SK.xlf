@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/modules/ph_simpleblog/views/templates/hook/after-post-content.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="319cf17b95b30222314383bb72d608c2">
+        <source>Share this post</source>
+        <target>Share this post</target>
+        <note>Line: 3</note>
+      </trans-unit>
+      <trans-unit id="2491bc9c7d8731e1ae33124093bc7026">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Line: 5</note>
+      </trans-unit>
+      <trans-unit id="d85544fce402c7a2a96a48078edaf203">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Line: 8</note>
+      </trans-unit>
+      <trans-unit id="86709a608bd914b28221164e6680ebf7">
+        <source>Pinterest</source>
+        <target>Pinterest</target>
+        <note>Line: 11</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

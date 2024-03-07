@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/modules/ps_searchbar/ps_searchbar.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="b9af8635591dc44009ccd8e5389722ec">
+        <source>No products found</source>
+        <target>No products found</target>
+        <note>Line: 28</note>
+      </trans-unit>
+      <trans-unit id="08f56cb5b9f1f1fe717a7b1cd096fe6e">
+        <source>Type at least 3 characters</source>
+        <target>Type at least 3 characters</target>
+        <note>Line: 28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/_partials/headers/header-1.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target></target>
+        <note>Line: 22</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

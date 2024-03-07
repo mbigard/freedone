@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="25131b831e5832d70365d17471b6326d">
+        <source>Discover all modules</source>
+        <target>Descopera toate modulele</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="31edfec531c02c0cfe522ed5ca726e2f">
+        <source>Want to go further?</source>
+        <target>Vrei să mergi mai departe?</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

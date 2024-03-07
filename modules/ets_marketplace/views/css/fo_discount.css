@@ -1,0 +1,120 @@
+#module-ets_marketplace-discount ul.tab.nav.nav-tabs {
+    border: none;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#module-ets_marketplace-discount ul.tab.nav.nav-tabs li:last-child a {
+    border-right: none;
+}
+#module-ets_marketplace-discount ul.tab.nav.nav-tabs a {
+    color: #999;
+    font-size: 13px;
+    padding: 11px 15px;
+    margin-left: 0;
+    position: relative;
+    background: #fff;
+    height: 43px;
+}
+#module-ets_marketplace-discount ul.nav-tabs li.active a:before {
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: #2fb5d2;
+}
+#module-ets_marketplace-discount ul.tab.nav.nav-tabs li.active a {
+    color: #2fb5d2;
+    height: 44px;
+}
+#module-ets_marketplace-discount li.tab-row {
+    display: inline-block;
+}
+#module-ets_marketplace-discount .panel.ets_mp-panel .table-responsive{
+    visibility: visible;
+}
+.ets_mp_content_left p.help-block {
+    font-size: 13px;
+    color: #999;
+    margin-bottom: 0;
+}
+.ac_results {
+    text-align: left;
+    padding: 0;
+    border: 1px solid #bbcdd2;
+    background-color: white;
+    overflow: auto;
+    z-index: 99999;
+    max-height: 309px;
+    margin-top: -1px;
+}
+.ac_results li img {
+    height: auto;
+    margin-right: 7px;
+    max-width: 40px;
+    float: left;
+    min-width: 34px;
+}
+.ac_results li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.ac_results ul {
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ac_results li {
+    margin: 0;
+    padding: 2px 5px;
+    cursor: default;
+    display: block;
+    font: menu;
+    font-size: 12px;
+    line-height: 16px;
+    overflow: hidden;
+}
+.ac_odd {
+    background-color: #eee;
+}
+.ac_over {
+    background-color: #0A246A;
+    color: white;
+}
+@media (max-width: 767px) {
+    #module-ets_marketplace-discount ul.tab.nav.nav-tabs {
+        border: none;
+        text-align: right;
+        position: relative;
+        right: auto;
+        top: auto;
+        border-bottom: 1px solid #eee;
+    }
+}
+@media (max-width: 479px){
+    #module-ets_marketplace-discount ul.tab.nav.nav-tabs {
+        flex-wrap: wrap;
+        -webkit-flex-wrap: wrap;
+    }
+    #module-ets_marketplace-discount li.tab-row {
+        display: block;
+        width: 100%;
+    }
+    #module-ets_marketplace-discount ul.tab.nav.nav-tabs a {
+        font-size: 13px;
+        padding: 11px 15px;
+        margin-left: 0;
+        position: relative;
+        background: #fff;
+        height: 43px;
+        border: 1px solid #eee;
+        text-align: left;
+    }
+    #module-ets_marketplace-discount ul.tab.nav.nav-tabs li:last-child a {
+        border-right: 1px solid #eee;
+    }
+}

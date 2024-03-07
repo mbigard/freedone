@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="63d5049791d9d79d86e9a108b0a999ca">
+        <source>Reference</source>
+        <target>Cod produs</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1be6f9eb563f3bf85c78b4219bf09de9">
+        <source>Brand</source>
+        <target>Producator</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="84be54bb4bd1b755a27d86388700d097">
+        <source>Brands</source>
+        <target>Producatori</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="241cfa06413caa8aecd12ed99744bdc7">
+        <source>List of products by brand %s</source>
+        <target>Produse de la %s</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5e9ce3b8961433dfa8cd441709c78176">
+        <source>Save %amount%</source>
+        <target>Reducere %amount%</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3767d4f3efe17bd95a1bc7cf4194bb93">
+        <source>You might also like</source>
+        <target>Produse compatibile</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

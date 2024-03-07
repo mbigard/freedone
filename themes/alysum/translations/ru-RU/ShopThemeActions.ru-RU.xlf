@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="5015f5f6af450ad9492bc74f1059244b">
+        <source>Filter By</source>
+        <target>Фильтровать по</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b6d4223e60986fa4c9af77ee5f7149c5">
+        <source>Sign in</source>
+        <target>Войти</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Корзина</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dd1f775e443ff3b9a89270713580a51b">
+        <source>Previous</source>
+        <target>Предыдущий</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/pagination.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="10ac3d04253ef7e1ddc73e6091c0cd55">
+        <source>Next</source>
+        <target>Следующий</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/pagination.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="0ba7583639a274c434bbe6ef797115a4">
+        <source>Register</source>
+        <target>Registrovat</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/cart-voucher.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="ec211f7c20af43e742bf2570c3cb84f9">
+        <source>Add</source>
+        <target>Добавить</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/cart-voucher.tpl:53</note>
+      </trans-unit>
+      <trans-unit id="12a7a93d72ded50311b52c7d0a853e3c">
+        <source>Take advantage of our exclusive offers:</source>
+        <target>Преимущества вашего предложения</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/cart-voucher.tpl:64</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/dependencies/modules/customproducttabs/views/templates/admin/tabsList.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Изменить</target>
+        <note>Context:
+File: themes/alysum/dependencies/modules/customproducttabs/views/templates/admin/tabsList.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/_partials/block-address.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Удалить</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/block-address.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="06933067aafd48425d67bcb01bba5cb6">
+        <source>Update</source>
+        <target>Обновить</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/block-address.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/_partials/customer-form.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Сохранить</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/customer-form.tpl:57</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/modules/ps_shoppingcart/modal.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
+        <source>Checkout</source>
+        <target>Оформить</target>
+        <note>Context:
+File: themes/alysum/modules/ps_shoppingcart/modal.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="300225ee958b6350abc51805dab83c24">
+        <source>Continue shopping</source>
+        <target>Продожить шоппинг</target>
+        <note>Context:
+File: themes/alysum/modules/ps_shoppingcart/modal.tpl:41</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/customer-form.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="a0bfb8e59e6c13fc8d990781f77694fe">
+        <source>Continue</source>
+        <target>Продолжить</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/customer-form.tpl:48</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/modules/ps_customersignin/ps_customersignin.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="f2fdea440d768b85591e936a803c3631">
+        <source>Sign In</source>
+        <target>Войти</target>
+        <note>Context:
+File: themes/alysum/modules/ps_customersignin/ps_customersignin.tpl:9</note>
+      </trans-unit>
+      <trans-unit id="c87aacf5673fada1108c9f809d354311">
+        <source>Sign out</source>
+        <target>Выйти</target>
+        <note>Context:
+File: themes/alysum/modules/ps_customersignin/ps_customersignin.tpl:7</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/steps/payment.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="961f2247a2070bedff9f9cd8d64e2650">
+        <source>Choose</source>
+        <target>Выбрать</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/steps/payment.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/steps/addresses.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="bed08e8af70a98c1a8361f13ec477be0">
+        <source>Add new address</source>
+        <target>Добавить новый адресс</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/steps/addresses.tpl:108</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/address-form.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="ea4788705e6873b424c65e91c2846b19">
+        <source>Cancel</source>
+        <target>Отмена</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/address-form.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/cart-summary.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="acb0f29bb6d39aaabc7d2d62aaa4a57d">
+        <source>show details</source>
+        <target>Показать детали</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/cart-summary.tpl:37</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/guest-login.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="94966d90747b97d1f0f206c98a8b1ac3">
+        <source>Send</source>
+        <target>Отправить</target>
+        <note>Context:
+File: themes/alysum/templates/customer/guest-login.tpl:75</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/password-email.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="733ae3eecadd5777cea5ce9a32379d7a">
+        <source>Send reset link</source>
+        <target>Отправить ссылку сброса</target>
+        <note>Context:
+File: themes/alysum/templates/customer/password-email.tpl:62</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/password-new.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="95e6faaba5e8b016e5f9bcf5ea6c8270">
+        <source>Back to Login</source>
+        <target>Вернуться на Вход</target>
+        <note>Context:
+File: themes/alysum/templates/customer/password-new.tpl:66</note>
+      </trans-unit>
+      <trans-unit id="8f1e77e0d2be21da93cd4d9a939148f7">
+        <source>Change Password</source>
+        <target>Изменить пароль</target>
+        <note>Context:
+File: themes/alysum/templates/customer/password-new.tpl:57</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/order-follow.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="daf51d7d9e10e6a469434ae548d9a173">
+        <source>Print out</source>
+        <target>Напечатать</target>
+        <note>Context:
+File: themes/alysum/templates/customer/order-follow.tpl:88</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/order-detail.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="332c80b1838dc515f5031e09da3b7f3f">
+        <source>Reorder</source>
+        <target>Перезаказать</target>
+        <note>Context:
+File: themes/alysum/templates/customer/order-detail.tpl:47</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/addresses.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="5144a9adfce5a7d475bb8194a4a310a5">
+        <source>Create new address</source>
+        <target>Создать новый адресс</target>
+        <note>Context:
+File: themes/alysum/templates/customer/addresses.tpl:42</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/product-customization.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="fc35ec973f5b3a16f0d4b009834f39a6">
+        <source>Remove Image</source>
+        <target>Удалить картинку</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-customization.tpl:49</note>
+      </trans-unit>
+      <trans-unit id="cbe55e77ffa67d13322eb1ce7d22f1ba">
+        <source>Choose file</source>
+        <target>Выбрать файл</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-customization.tpl:54</note>
+      </trans-unit>
+      <trans-unit id="f346acd7aed7508df8fec4da8353c81e">
+        <source>Save Customization</source>
+        <target>Сохранить модификацию</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-customization.tpl:62</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/products-top.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="d7778d0c64b6ba21494c97f77a66885a">
+        <source>Filter</source>
+        <target>Фильтр</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/products-top.tpl:39</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="2e65a5e30c454ceb77be9bb48e8343f1">
+        <source>Remove from cart</source>
+        <target>Remove from cart</target>
+        <note>Context:
+File: themes/alysum/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl:18</note>
+      </trans-unit>
+      <trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <source>Remove</source>
+        <target>Удалить</target>
+        <note>Context:
+File: themes/alysum/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl:18</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/miniatures/product.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="c91e4ee170226d66e90f99ba917e4c20">
+        <source>Quick view</source>
+        <target>Быстрый просмотр</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/product.tpl:57</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="537c66b24ef5c83b7382cdc3f34885f2">
+        <source>Year</source>
+        <target>Год</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="ef831a7b020689074c3df21c36dfc3c0">
+        <source>Months</source>
+        <target>Месяцы</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="e807d3ccf8d24c8c1a3d86db5da78da8">
+        <source>Days</source>
+        <target>Дни</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="6a7e73161603d87b26a8eac49dab0a9c">
+        <source>Hours</source>
+        <target>Часы</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="f670ea66cfb0e90bd6090472ad692694">
+        <source>Minutes</source>
+        <target>Минуты</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl:8</note>
+      </trans-unit>
+      <trans-unit id="8f19a8c7566af54ea8981029730e5465">
+        <source>Seconds</source>
+        <target>Секунды</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/countdown.tpl:8</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/miniatures/brand.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="c61ab4204f572e9b3aa84a040e0dab31">
+        <source>View products</source>
+        <target>Смотреть товары</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/miniatures/brand.tpl:34</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/facets.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="81aa2078d1eceede831b2976dbf32e62">
+        <source>Clear all</source>
+        <target>Очистить все</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/facets.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/product.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="63a6a88c066880c5ac42394a22803ca6">
+        <source>Refresh</source>
+        <target>Обновить</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:150</note>
+      </trans-unit>
+      <trans-unit id="801ab24683a4a8c433c6eb40c48bcd9d">
+        <source>Download</source>
+        <target>Загрузить</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:211</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/dependencies/modules/pk_compare/views/templates/front/compare.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>В корзину</target>
+        <note>Context:
+File: themes/alysum/dependencies/modules/pk_compare/views/templates/front/compare.tpl:154</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/sort-orders.tpl" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="e0626222614bdee31951d84c64e5e9ff">
+        <source>Select</source>
+        <target>Выбрать</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/sort-orders.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin849iewvwh" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="4de8cf7f71c90bd5276f3eeb67da1803">
+        <source>remove from cart</source>
+        <target>Убрать из корзины</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

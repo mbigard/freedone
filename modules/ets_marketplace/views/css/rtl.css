@@ -1,0 +1,136 @@
+.lang-rtl .ets_mp_content_left,
+.lang-rtl .ets_mp_content_left * {
+    direction: rtl;
+}
+.lang-rtl .ets_mp_content_left .alert:before {
+    right: 0;
+    left: auto;
+}
+.lang-rtl .ets_mp_content_left .alert.alert-error,
+.lang-rtl .ets_mp_content_left .alert.alert-info,
+.lang-rtl .ets_mp_content_left .alert.alert-warning {
+    padding-left: 30px;
+    padding-right: 60px;
+}
+.lang-rtl .custom-file-label {
+    text-align: right;
+}
+.lang-rtl .stats-options-right {
+    float: left;
+}
+.lang-rtl .ets_mp-panel .ps-number-spinner {
+    left: 0;
+    right: auto;
+}
+.lang-rtl .ml-1{
+    margin-right: 1rem!important;
+}
+.lang-rtl .float-sm-right {
+    float: left;
+}
+.lang-rtl .pull-right,
+.lang-rtl span.panel-heading-action {
+    float: left;
+}
+.ets_mp_content_left .text-right{
+    text-align: left;
+}
+#module-ets_marketplace-attributes.lang-rtl div#head_tabs ul.nav a,
+#module-ets_marketplace-features.lang-rtl div#head_tabs ul.nav a {
+    border-right: none;
+    border-left: 1px solid #ddd;
+}
+.lang-rtl .panel-heading-action .list-toolbar-btn{
+    margin-left: 0;
+    margin-right: 5px;
+}
+.lang-rtl th.table_action {
+    text-align: left!important;
+}
+.lang-rtl .alert.alert-warning:after {
+    right: 0;
+    left: auto;
+}
+.lang-rtl .ets_mp_shop_main_detail .block-seller .seller-cover {
+    margin-right: 0;
+    margin-left: 20px;
+}
+.lang-rtl .block-seller .block-seller-group {
+    text-align: right;
+}
+.lang-rtl .block-seller-inner .product_review_shop .col {
+    padding: 2px 0 2px 15px;
+}
+.lang-rtl .block-seller-inner .product_review_shop .col > i{
+    margin-right:0;
+    margin-left:  2px;
+}
+.lang-rtl .block-seller-inner h1.h1{
+    margin-right: 0;
+    margin-left: 10px;
+}
+.lang-rtl .ets_myshop_right .products span.alert.alert-warning {
+    text-align: right;
+    padding-right: 70px;
+    padding-left: 10px;
+}
+.lang-rtl .block-seller-inner button.ets_mp_report {
+    margin-right: 5px;
+    margin-left: 0;
+}
+.lang-rtl #ets_mp_manager_shop_form .checkbox input[type="checkbox"],
+.lang-rtl #ets_mp_manager_shop_form .checkbox-inline input[type="checkbox"],
+.lang-rtl #ets_mp_manager_shop_form .radio input[type="radio"] input[type="radio"] {
+    float: right;
+    margin-left: 5px;
+    margin-bottom: 0;
+    margin-top: 3px;
+}
+.lang-rtl .ets_mp_content_left .input-group .form-control + .input-group-append,
+.lang-rtl .ets_mp_content_left .input-group input ~ .input-group-append {
+    left: 0;
+    right: auto;
+}
+.lang-rtl .ets_mp_content_left .label,
+.lang-rtl .ets_mp_content_left label {
+    text-align: right;
+}
+.lang-rtl .cart_rule_tab .col-lg-9 > .input-group.col-lg-12 input#productFilter ~ .input-group-append {
+    right: auto;
+    left: 0;
+}
+.lang-rtl .ets_mp_content_left .ets_mp_item i {
+    margin-right: 0;
+    margin-left: 3px;
+}
+.lang-rtl #module-ets_marketplace-discount ul.tab.nav.nav-tabs a {
+    border-left: 1px solid #eee;
+    border-right: 0;
+}
+.lang-rtl .form-group.etm-mp-product-feature {
+    padding-right: 0;
+    padding-left: 35px;
+}
+.lang-rtl #ets_mp_product_form .module_confirmation.conf.confirm.alert.alert-success {
+    padding-right: 45px;
+    padding-left: 20px;
+    border-right: solid 3px #4ac7e0;
+    border-left: 0;
+}
+.lang-rtl .input-group .input-group-prepend + input {
+    padding-right: 40px!important;
+    padding-left: 10px!important;
+}
+.lang-rtl .ets_mp_tab_content .input-group-prepend,
+.lang-rtl .ets_mp_content_right .input-group-prepend,
+.lang-rtl .ets_mp_content_left .input-group-prepend{
+    right: 0;
+    left: auto;
+}
+.lang-rtl #ets_mp_product_form .ets_mp_errors .module_error.alert-danger {
+    padding-right: 50px;
+    padding-left: 10px;
+}
+.lang-rtl button#form_step6_attachment_product_add {
+    float: right;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/catalog/_partials/product-customization.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="20f4168399201bd498e52bafeb59b478">
+        <source>Don't forget to save your customization to be able to add to cart</source>
+        <target></target>
+        <note>Line: 29</note>
+      </trans-unit>
+      <trans-unit id="6ba73729cf3b0503435d54870d993e8d">
+        <source>Your message here</source>
+        <target></target>
+        <note>Line: 38</note>
+      </trans-unit>
+      <trans-unit id="7e8cfff1e4f6fbdc4d6f4149c84e17ed">
+        <source>250 char. max</source>
+        <target></target>
+        <note>Line: 39</note>
+      </trans-unit>
+      <trans-unit id="9378eeabb3f4f2c5122659d50560a448">
+        <source>No selected file</source>
+        <target></target>
+        <note>Line: 52</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

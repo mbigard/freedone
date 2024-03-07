@@ -1,0 +1,4 @@
+#ets_mp_supplier_group_form input[type="file"] {
+    max-width: 100%;
+    overflow: hidden;
+}

@@ -1,0 +1,108 @@
+# Parent/child theme documentation https://devdocs.prestashop.com/1.7/themes/reference/template-inheritance/parent-child-feature/
+parent: alysum
+name: freedone
+display_name: Freedone
+version: 1.0.0
+assets:
+    js:
+        all:
+            - id: masonry
+              path: assets/js/libs/masonry.js
+              priority: 99
+              position: bottom
+              attributes: defer
+            - id: glide
+              path: assets/js/libs/glide.js
+              priority: 99
+              position: bottom
+              attributes: defer
+            - id: cookies
+              path: assets/js/libs/cookies.js
+              priority: 99
+              position: bottom
+              attributes: defer
+            - id: alysum
+              path: assets/js/alysum.js
+              priority: 100
+              position: bottom
+              attributes: defer
+        category:
+            - id: category-imagesLoaded
+              path: assets/js/libs/imagesLoaded.js
+              position: bottom
+              priority: 99
+              attributes: defer
+            - id: category-page
+              path: assets/js/pages/category.js
+              position: bottom
+              priority: 101
+              attributes: defer
+        module-ph_simpleblog-single:
+            - id: blog-sharer
+              path: assets/js/libs/sharer.js
+              position: bottom
+              priority: 99
+              attributes: defer
+        product:
+            - id: product-imagesLoaded
+              path: assets/js/libs/imagesLoaded.js
+              position: bottom
+              priority: 99
+              attributes: defer
+            - id: product-sharer
+              path: assets/js/libs/sharer.js
+              position: bottom
+              priority: 99
+              attributes: defer
+            - id: product-page
+              path: assets/js/pages/product.js
+              position: bottom
+              priority: 101
+              attributes: defer
+            - id: product-jzoom
+              path: assets/js/libs/jquery.zoom.min.js
+              position: bottom
+              priority: 101
+              attributes: defer
+        order:
+            - id: order-amp
+              path: assets/js/pages/order.js
+              position: bottom
+              priority: 99
+              attributes: defer
+    css:
+        category:
+            - id: category-style
+              path: assets/css/pages/category.css
+              media: all
+              priority: 200
+        product:
+            - id: product-style
+              path: assets/css/pages/product.css
+              media: all
+              priority: 200
+        stores:
+            - id: stores-style
+              path: assets/css/pages/stores.css
+              media: all
+              priority: 200
+        order:
+            - id: order-style
+              path: assets/css/pages/order.css
+              media: all
+              priority: 200
+        order-confirmation:
+            - id: order-style
+              path: assets/css/pages/order.css
+              media: all
+              priority: 200
+        cms:
+            - id: cms-style
+              path: assets/css/pages/cms.css
+              media: all
+              priority: 200
+        contact:
+            - id: contact-style
+              path: assets/css/pages/contact.css
+              media: all
+              priority: 200

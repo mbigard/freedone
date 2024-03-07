@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="dcvzrgapkqpyh099" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="3cfd94e5b1e020a2b88c15f49d57886e">
+        <source>Blog categories</source>
+        <target>Categorie di blog</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="01d645c1c180eba4d15dd4438e712cd9">
+        <source>Link to</source>
+        <target>Collegamento a</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

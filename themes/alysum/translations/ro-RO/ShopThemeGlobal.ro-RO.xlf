@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="2143f8cb66482342b35208bdc3fd949c">
+        <source>Active filters</source>
+        <target>Filtrare produse</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="67a85af5606b56368616ddd14694190d">
+        <source>Our website is almost ready.</source>
+        <target>Suntem aproape gata!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="914419aa32f04011357d3b604a86d7eb">
+        <source>Carrier</source>
+        <target>Curier</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8c489d0946f66d17d73f26366a4bf620">
+        <source>Weight</source>
+        <target>Greutate</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="552a0d8c17d95d5dbdc0c28217024f5a">
+        <source>Shipping cost</source>
+        <target>Cost transport</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5068c162a60b5859f973f701333f45c5">
+        <source>Tracking number</source>
+        <target>Numar de urmarire</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="51af726259b3283f6b53613165f95697">
+        <source>List of pages in %name%:</source>
+        <target>Lista paginilor in %name%:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dc647eb65e6711e155375218212b3964">
+        <source>Password</source>
+        <target>Parola</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

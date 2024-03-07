@@ -1,0 +1,61 @@
+/* CONTACT page */
+@media (min-width:768px) {
+  #pk-map {
+    width:calc(100% - 20px)
+  }
+}
+#pk-map {
+  height:500px;
+  background:#eee
+}
+.google-maps svg {
+  position: absolute;
+  top:50%;
+  left:50%;
+  margin: -8px 0 0 -8px;
+  opacity:0.3
+}
+.contact-page-footer {
+  margin-top: 140px;
+}
+.contact-page-footer > div {
+  margin-bottom: 40px
+}
+.contact-page-footer h6 {
+  text-transform: uppercase;
+  color:#414141;
+  letter-spacing: 0.1em;
+  font-size: 1em;
+  font-weight: normal;
+  margin: 0 0 20px;
+}
+.contact-page-footer p {
+  font-size: 0.875em;
+  color:#727272;
+}
+.contact-page-footer svg {
+  width:43px;
+  height:43px;
+  margin-bottom: 35px;
+  color:#313537
+}
+#contact .contact-page textarea {text-indent: 25px}
+.contact-page .form-fields label {
+  width: 100%;
+}
+.contact-page h3 {
+  margin: 0 0 40px;
+  letter-spacing: 0.1em;
+  font-size: 1.563em;
+}
+.contact-page .login-form {
+  padding-top: 70px;
+}
+@media (max-width:991px) {
+    .contact-page-footer {
+      margin-top: 90px
+    }
+    .contact-page-footer > div {
+      margin-bottom: 20px
+    }
+}

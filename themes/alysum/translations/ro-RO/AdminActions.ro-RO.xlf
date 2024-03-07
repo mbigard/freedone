@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Sterge</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Modifica</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef61fb324d729c341ea8ab9901e23566">
+        <source>Add new</source>
+        <target>Adauga</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="92fbf0e5d97b8afd7e73126b52bdc4bb">
+        <source>Choose a file</source>
+        <target>Alege fisier</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

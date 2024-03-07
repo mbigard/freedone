@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/modules/ph_simpleblog/views/templates/hook/1.7/left-column.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="3cfd94e5b1e020a2b88c15f49d57886e">
+        <source>Blog categories</source>
+        <target>Blog categories</target>
+        <note>Line: 26</note>
+      </trans-unit>
+      <trans-unit id="01d645c1c180eba4d15dd4438e712cd9">
+        <source>Link to</source>
+        <target>Link to</target>
+        <note>Line: 39</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

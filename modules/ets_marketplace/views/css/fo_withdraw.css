@@ -1,0 +1,4 @@
+.ets_mp_content_left table.ets_mp-table-data.table-striped th,
+table.table.eam-table-flat.table-label-custom th {
+    white-space: nowrap;
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="f2fc7490cbdb0db5cd6f1a4e7edb0da1">
+        <source>Your account</source>
+        <target>Su cuenta</target>
+        <note>Context:
+File: themes/alysum/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl:2</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

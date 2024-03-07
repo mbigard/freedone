@@ -1,0 +1,88 @@
+.quickview .modal-dialog {
+    width: calc(100% - 30px);
+    max-width: 64rem;
+}
+
+.quickview .modal-content {
+    min-height: 28.125rem;
+}
+
+.quickview .modal-footer > div {
+    margin-right: 25px;
+}
+
+.quickview .layer {
+    display: none;
+}
+
+.quickview .mask {
+    width: 20%;
+    overflow: hidden;
+}
+
+.quickview .arrows {
+    position: absolute;
+    top: 0;
+    height: 22.5rem;
+    right: 5rem;
+    z-index: 0;
+}
+
+.quickview .arrows .arrow-up {
+    margin-top: -3.125rem;
+    cursor: pointer;
+    opacity: 0.2;
+}
+
+.quickview .arrows .arrow-down {
+    position: absolute;
+    bottom: -1.875rem;
+    cursor: pointer;
+}
+
+.quickview .social-sharing {
+    margin-top: 0;
+    margin-left: 2.5rem;
+}
+
+.quickview .product-description-short {
+    margin-bottom: 25px;
+    line-height: 1.75em;
+}
+
+.quickview .product-prices.price {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.quickview .product-prices.price .tax-shipping-delivery-label {
+    margin-left: 10px;
+}
+
+.quickview .product-description-short p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.quickview .js-qv-mask.thumb-carousel {
+    display: block !important;
+}
+
+.quickview .prod-image-zoom {
+    cursor: pointer;
+}
+
+.quickview .current-price {
+    font-size: 1.75em;
+    line-height: 140%;
+    margin-bottom: 25px;
+}
+
+.quickview .thumb-container img {
+    display: block;
+}
+
+.quickview .product-quantity {
+    margin-bottom: 10px;
+}

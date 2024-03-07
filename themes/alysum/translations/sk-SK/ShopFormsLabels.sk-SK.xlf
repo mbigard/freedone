@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/_partials/form-fields.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="93332134fd11cffbe680dd8afaa521fc">
+        <source>-- day --</source>
+        <target></target>
+        <note>Line: 122</note>
+      </trans-unit>
+      <trans-unit id="9180b4d5ab8103f244c2d4fd661934e2">
+        <source>-- month --</source>
+        <target></target>
+        <note>Line: 123</note>
+      </trans-unit>
+      <trans-unit id="ae1cc541ba45ce670ea7e0e3a30e3205">
+        <source>-- year --</source>
+        <target></target>
+        <note>Line: 124</note>
+      </trans-unit>
+      <trans-unit id="ebb061953c0454b2c8ee7b0ac615ebcd">
+        <source>Optional</source>
+        <target></target>
+        <note>Line: 191</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/customer/_partials/order-messages.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="1625e29c02062efe5dbc42c3efeeebc4">
+        <source>-- please choose --</source>
+        <target></target>
+        <note>Line: 59</note>
+      </trans-unit>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target></target>
+        <note>Line: 56</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/customer/guest-login.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="63c193f613dd3d9d6c16da7678efda2a">
+        <source>Order Reference:</source>
+        <target></target>
+        <note>Line: 41</note>
+      </trans-unit>
+      <trans-unit id="6a1e265f92087bb6dd18194833fe946b">
+        <source>Email:</source>
+        <target></target>
+        <note>Line: 59</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/customer/guest-tracking.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="3b6bf3c0c07b89dc86f415117a1f0b80">
+        <source>Set your password:</source>
+        <target></target>
+        <note>Line: 53</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/customer/password-email.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target></target>
+        <note>Line: 54</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/customer/password-new.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="3544848f820b9d94a3f3871a382cf138">
+        <source>New password</source>
+        <target></target>
+        <note>Line: 52</note>
+      </trans-unit>
+      <trans-unit id="f4d1ea475eaa85102e2b4e6d95da84bd">
+        <source>Confirmation</source>
+        <target></target>
+        <note>Line: 56</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/_partials/order-messages.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="8afb32a59ef40599bd8991dd1e5feb21">
+        <source>-- please choose a product --</source>
+        <target>-- please choose a product --</target>
+        <note>Line: 40</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/loginform.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="dc647eb65e6711e155375218212b3964">
+        <source>Password</source>
+        <target></target>
+        <note>Line: 20</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/templates/checkout/_partials/footer.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="9fcba387b581ec9abcbff15e62317da5">
+        <source>Ecommerce software by</source>
+        <target>Ecommerce software by</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/footer.tpl:26</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/cms/stores.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="34c869c542dee932ef8cd96d2f91cae6">
+        <source>Our stores</source>
+        <target>Our stores</target>
+        <note>Context:
+File: themes/alysum/templates/cms/stores.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="adc4f9f9cccaa450c10977d50da58d8d">
+        <source>About and Contact</source>
+        <target>About and Contact</target>
+        <note>Context:
+File: themes/alysum/templates/cms/stores.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/cms/sitemap.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="5813ce0ec7196c492c97596718f71969">
+        <source>Sitemap</source>
+        <target>Sitemap</target>
+        <note>Context:
+File: themes/alysum/templates/cms/sitemap.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/cms/category.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="6c5c05a5b907385c60c3baa4087ea1a1">
+        <source>List of sub categories in %name%:</source>
+        <target>List of sub categories in %name%:</target>
+        <note>Context:
+File: themes/alysum/templates/cms/category.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="51af726259b3283f6b53613165f95697">
+        <source>List of pages in %name%:</source>
+        <target>List of pages in %name%:</target>
+        <note>Context:
+File: themes/alysum/templates/cms/category.tpl:45</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/errors/restricted-country.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="6351030f724f6f42fd11ec9aa6ee8c76">
+        <source>403 Forbidden</source>
+        <target>403 Forbidden</target>
+        <note>Context:
+File: themes/alysum/templates/errors/restricted-country.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="cf8092a0be7b972d6cee3db90bfaf923">
+        <source>You cannot access this store from your country. We apologize for the inconvenience.</source>
+        <target>You cannot access this store from your country. We apologize for the inconvenience.</target>
+        <note>Context:
+File: themes/alysum/templates/errors/restricted-country.tpl:44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/errors/maintenance.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="67a85af5606b56368616ddd14694190d">
+        <source>Our website is almost ready.</source>
+        <target>Our website is almost ready.</target>
+        <note>Context:
+File: themes/alysum/templates/errors/maintenance.tpl:36</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/facets.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="7a1c5301da6b1ce9e4345bd501397045">
+        <source>(no filter)</source>
+        <target>(no filter)</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/facets.tpl:138</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/sort-orders.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="6f9d01a14011f05fffe48559583fc609">
+        <source>Sort by:</source>
+        <target>Sort by:</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/sort-orders.tpl:25</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/active_filters.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="2143f8cb66482342b35208bdc3fd949c">
+        <source>Active filters</source>
+        <target>Active filters</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/active_filters.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/errors/not-found.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="c62420fe56ba1bd9be3bad2d6203a28e">
+        <source>404 error</source>
+        <target>404 error</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="5e4ace6a96971949d519e8b1885652aa">
+        <source>This page</source>
+        <target>This page</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="bb6fa703fe7d9bb63ab77a746a775be8">
+        <source>cannot be found</source>
+        <target>cannot be found</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/_partials/headers/header-1.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/headers/header-1.tpl:21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/checkout/_partials/header.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="96d6f2e7e1f705ab5e59c84a6dc009b2">
+        <source>logo</source>
+        <target>logo</target>
+        <note>Context:
+File: themes/alysum/templates/checkout/_partials/header.tpl:32</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

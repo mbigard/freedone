@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminstatus" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="4965c5c470cdb56697141396fb830bc6">
+        <source>Crossselling Products</source>
+        <target>Prodotti cross-selling</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/templates/errors/not-found.tpl" source-language="uk-UA" target-language="uk-UA" datatype="plaintext">
+    <body>
+      <trans-unit id="c62420fe56ba1bd9be3bad2d6203a28e">
+        <source>404 error</source>
+        <target>Помилка 404</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="5e4ace6a96971949d519e8b1885652aa">
+        <source>This page</source>
+        <target>Ця сторінка</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="bb6fa703fe7d9bb63ab77a746a775be8">
+        <source>cannot be found</source>
+        <target>не знайдена</target>
+        <note>Context:
+File: themes/alysum/templates/errors/not-found.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

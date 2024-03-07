@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="186c30cab59f6b64a453778330d4bbf0">
+        <source>New comment</source>
+        <target>Nowy komentarz</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="221e705c06e231636fdbccfdd14f4d5c">
+        <source>Your name</source>
+        <target>Twoje imię</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef6703d6c606526cece4a9eda9d49045">
+        <source>Your comment</source>
+        <target>Twój komentarz</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b23ba156154d37947f632aca8fb4f032">
+        <source>Add new comment</source>
+        <target>Dodaj nowy komentarz</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="83f072670ce7d8a17801e5dfbba79f4b">
+        <source>Only registered and logged customers can add comments</source>
+        <target>Tylko zarejestrowani i zalogowani klienci mogą dodawać komentarze</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2b888c068d703c360131f51314556c39">
+        <source>No comments at this moment</source>
+        <target>Brak komentarzy w tej chwili</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5d491060952aa8ad5fdee071be752de">
+        <source>comments</source>
+        <target>komentarze</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="24ad95557100e42e28ea73335e4e8ad1">
+        <source>Posted by</source>
+        <target>Wysłane przez</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ed2b5c0139cec8ad2873829dc1117d50">
+        <source>on</source>
+        <target>na</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="061fcdd72d275db7234f4d3a03e3f23c">
+        <source>There are no posts</source>
+        <target>Brak postów</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Czytaj więcej</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0746618781a2a85b5edf43bd3817064b">
+        <source>Permalink to</source>
+        <target>bezpośredni odnośnik do</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cb3c718c905f00adbb6735f55bfb38ef">
+        <source>Product available with different options</source>
+        <target>Produkt dostępny z różnymi opcjami</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bb63f16d5ebfcfa8a651642a7bb2ea5c">
+        <source>Sale!</source>
+        <target>Sprzedaż!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4351cfebe4b61d8aa5efa1d020710005">
+        <source>View</source>
+        <target>Widok</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="63a78ed4647f7c63c2929e35ec1c95e3">
+        <source>Customize</source>
+        <target>Dostosuj</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d3da97e2d9aee5c8fbe03156ad051c99">
+        <source>More</source>
+        <target>Więcej</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ca2bf12169883f4982d8fe34b7e3c618">
+        <source>Reduced price!</source>
+        <target>Obniżona cena!</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="38070661d5ad384d9c7d21895dc4e784">
+        <source>Related products</source>
+        <target>Produkty powiązane</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8413c683b4b27cc3f4dbd4c90329d8ba">
+        <source>Comments</source>
+        <target>Komentarze</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="59a14a5786fe7a105d780bb1e1e2b21b">
+        <source>views</source>
+        <target>wyświetlenia</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cc71d8f3dc8842c0f4f55e3f5b388ec6">
+        <source>likes</source>
+        <target>lubi</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="177fb19868f26b16ec76fa8416aaeee1">
+        <source>View full</source>
+        <target>Wyświetl pełny</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d251b3d39f0472a0f8693de6e0882e8">
+        <source>Back to blog homepage</source>
+        <target>Powrót do strony głównej bloga</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6f685fd662627e2f1b306cc897555d08">
+        <source>Your comment was sucessfully added.</source>
+        <target>Twój komentarz został pomyślnie dodany.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e639909c9b5ffa8b742d1c78379e7972">
+        <source>Your comment was sucessfully added but it will be visible after moderator approval.</source>
+        <target>Twój komentarz został pomyślnie dodany, ale będzie widoczny po zatwierdzeniu przez moderatora.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="32b502f33a535f75dcbf63f6753c631e">
+        <source>Tags:</source>
+        <target>Tagi:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2a4fbc721840a8d4096a0225e85700f6">
+        <source>Permalink link to</source>
+        <target>Link bezpośredni do</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5e706a9b7eb9b142a619e4331d6976e6">
+        <source>Visit</source>
+        <target>Odwiedzić</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="33e453eb46fba825838ad6c84ddc8e4d">
+        <source>External link to</source>
+        <target>Link zewnętrzny do</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="319cf17b95b30222314383bb72d608c2">
+        <source>Share this post</source>
+        <target>Podziel się tym postem</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="03de921a8ea82897e13d33d66c28b4db">
+        <source>Online only</source>
+        <target>tylko online</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3cfd94e5b1e020a2b88c15f49d57886e">
+        <source>Blog categories</source>
+        <target>Kategorie blogów</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="01d645c1c180eba4d15dd4438e712cd9">
+        <source>Link to</source>
+        <target>Łączyć z</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

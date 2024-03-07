@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="5dc5aba5187b03594ed0512efb6a8d4f">
+        <source>New customers</source>
+        <target>Esti client nou?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bba6ae1025ba6c606f98417368c284f8">
+        <source>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</source>
+        <target>Prin crearea unui cont, vei putea trece mai rapid prin procesul de plata, poti stoca mai multe adrese de livrare, poti vizualiza si urmari comenzile in contul tau, si te poti bucura de toate ofertele 1smart.ro.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6b10b52dc4d44e780e6e38073668be56">
+        <source>Guest Order Tracking</source>
+        <target>Urmarire comanda fara cont</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

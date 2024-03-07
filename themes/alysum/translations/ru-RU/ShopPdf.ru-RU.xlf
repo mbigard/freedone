@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin849iewvwh" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="a271cee71f5c411446db4f90676dbc96">
+        <source>%taxrate%%space%%</source>
+        <target>%taxrate%%space%%</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="1ac6ee29e9e68fb71bad91c1d34348cc">
+        <source>%s:</source>
+        <target>%s:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

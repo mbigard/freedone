@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="mgsrchg1imrgls6v2" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="cc71d8f3dc8842c0f4f55e3f5b388ec6">
+        <source>likes</source>
+        <target>likes</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="59a14a5786fe7a105d780bb1e1e2b21b">
+        <source>views</source>
+        <target>vues</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5d491060952aa8ad5fdee071be752de">
+        <source>comments</source>
+        <target>commentaires</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="177fb19868f26b16ec76fa8416aaeee1">
+        <source>View full</source>
+        <target>Voir tout</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

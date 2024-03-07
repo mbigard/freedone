@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="544c3bd0eac526113a9c66542be1e5bc">
+        <source>Product successfully added to your shopping cart</source>
+        <target>Produsul a fost adaugat in cosul tau</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf">
+        <source>Addresses</source>
+        <target>Adresa si date de facturare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49ffd9480effff979143d2e8d38931c4">
+        <source>Shipping Method</source>
+        <target>Livrarea produselor</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c453a4b8e8d98e82f35b67f433e3b4da">
+        <source>Payment</source>
+        <target>Metode de plata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="000c08b52e4b2e22518a4a244191bfe9">
+        <source>If you log out now, your cart will be emptied.</source>
+        <target>Daca te dezautentifici acum, cosul de cumparaturi se va sterge.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8f330206eca6307d025e93a691dd1da1">
+        <source>Delivery address "%alias%"</source>
+        <target>Adresa de livrare "%alias%"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="013c77d08e8c29b434613269b8069809">
+        <source>Invoice address "%alias%"</source>
+        <target>Adresa de facturare "%alias%"</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

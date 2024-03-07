@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/templates/mobile/cms/contact.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="a11ff95b6a3e373be9eb9ab305e31cf0">
+        <source>Please make sure the module "Contact form" is installed and enabled</source>
+        <target>Veuillez vous assurer que le module "Formulaire de contact" est installé et activé.</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/cms/contact.tpl:77</note>
+      </trans-unit>
+      <trans-unit id="68ea08f4627622f85a58b329b06d9760">
+        <source>Something goes wrong. Please try again later</source>
+        <target>Quelque chose ne va pas. Veuillez réessayer plus tard</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/cms/contact.tpl:133</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="5706de961fb376d701be6e7762d8b09c">
+        <source>Waiting</source>
+        <target>En attente</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="f92965e2c8a7afb3c1b9a5c09a263636">
+        <source>Done</source>
+        <target>Fait</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:42</note>
+      </trans-unit>
+      <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
+        <source>Checkout</source>
+        <target>Passer à la caisse</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:111</note>
+      </trans-unit>
+      <trans-unit id="d25322d1219e9664a392e865c4c744f9">
+        <source>Your Cart is Empty</source>
+        <target>Votre panier est vide</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:54</note>
+      </trans-unit>
+      <trans-unit id="5e464b6ffc9999da1ac97f1bc0c1fb5b">
+        <source>Unable to remove</source>
+        <target>Impossible à enlever</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:43</note>
+      </trans-unit>
+      <trans-unit id="068f80c7519d0528fb08e82137a72131">
+        <source>Products</source>
+        <target>Produits</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:68</note>
+      </trans-unit>
+      <trans-unit id="9d5bf15117441a1b52eb1f0808e4aad3">
+        <source>Discounts</source>
+        <target>Réductions</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:72</note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Expédition</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:76</note>
+      </trans-unit>
+      <trans-unit id="4b78ac8eb158840e9638a3aeb26c4a9d">
+        <source>Tax</source>
+        <target>TVA</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:80</note>
+      </trans-unit>
+      <trans-unit id="96b0141273eabab320119c467cdcaf17">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:84</note>
+      </trans-unit>
+      <trans-unit id="76b133716b02dfc40f097e722075ddbd">
+        <source>My Cart</source>
+        <target>Mon panier</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:3</note>
+      </trans-unit>
+      <trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <source>Remove</source>
+        <target>Retirer</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Panier</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl:111</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/header.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="97e0d62d1db5473366dd6e7ebd56f596">
+        <source>Shop logo</source>
+        <target>Logo de la boutique</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/header.tpl:23</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/modules/ps_mainmenu/ps_mainmenu.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="b61541208db7fa7dba42c85224405911">
+        <source>Menu</source>
+        <target>Menu</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_mainmenu/ps_mainmenu.tpl:12</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/cookies.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="da6efaa678c03355b06ac5aea622c9bf">
+        <source>This website uses cookies to ensure you get the best experience on our website</source>
+        <target>Ce site utilise des cookies pour vous assurer une navigation optimale.</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/cookies.tpl:14</note>
+      </trans-unit>
+      <trans-unit id="d59048f21fd887ad520398ce677be586">
+        <source>Learn more</source>
+        <target>En savoir plus</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/cookies.tpl:14</note>
+      </trans-unit>
+      <trans-unit id="320620f678cb15ebf7a577abd04427f3">
+        <source>I accept</source>
+        <target>J'accepte</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/cookies.tpl:15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/loginform.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="99dea78007133396a7b8ed70578ac6ae">
+        <source>Login</source>
+        <target>Connexion</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="59e6c232e3eacaa53b416eac5cdfc5eb">
+        <source>I want to register</source>
+        <target>Je veux m'inscrire</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="a577ed06573d7b518d95f24d5c46fa7b">
+        <source>Unable to Login</source>
+        <target>Impossible de se connecter</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:46</note>
+      </trans-unit>
+      <trans-unit id="5bc94d9825972de14552ca2495375807">
+        <source>Unable to Register</source>
+        <target>Impossible de s'inscrire</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="e55481a49101d7c59a2492109f36e86e">
+        <source>You are logged in</source>
+        <target>Vous êtes connecté(e)</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="8a137a0448c8ea9b78673012491f61d7">
+        <source>Registration Succeed</source>
+        <target>Inscription réussie</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:52</note>
+      </trans-unit>
+      <trans-unit id="01a569ddc6cf67ddec2a683f0a5f5956">
+        <source>Forgot your password?</source>
+        <target>Oublié votre mot de passe ?</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/loginform.tpl:59</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/register.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="0ba7583639a274c434bbe6ef797115a4">
+        <source>Register</source>
+        <target>S'inscrire</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/register.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="bc910f8bdf70f29374f496f05be0330c">
+        <source>First Name</source>
+        <target>Prénom </target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/register.tpl:21</note>
+      </trans-unit>
+      <trans-unit id="77587239bf4c54ea493c7033e1dbf636">
+        <source>Last Name</source>
+        <target>Nom</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/register.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>E-mail</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/register.tpl:19</note>
+      </trans-unit>
+      <trans-unit id="3abbd962f6751baf05a19c4ebbc8d0e7">
+        <source>I agree to the</source>
+        <target>J'accepte que le</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/register.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="99b0a9110ebd2fa6dcd57f7daa5b5d42">
+        <source>terms of service</source>
+        <target>Modalités de service</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/register.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/accordion-title.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="708714aa8d5537518f5a8a8439012354">
+        <source>Accordion Title</source>
+        <target>Titre de la pièce Accordéon</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/accordion-title.tpl:13</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/button-toggler.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <source>Close</source>
+        <target>Fermer</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/button-toggler.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/sidebars.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="722377312be65aa3377c91fb9400b850">
+        <source>User Area</source>
+        <target>Espace Utilisateur</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:19</note>
+      </trans-unit>
+      <trans-unit id="adb831a7fdd83dd1e2a309ce7591dff8">
+        <source>Guest</source>
+        <target>Invité</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="c1a5298f939e87e8f962a5edfc206918">
+        <source>Hi</source>
+        <target>Bonjour</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="3a08e2e340ab29fd9263af48193cbf8e">
+        <source>Languages</source>
+        <target>Langues</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:48</note>
+      </trans-unit>
+      <trans-unit id="dfcfc43722eef1eab1e4a12e50a068b1">
+        <source>Currencies</source>
+        <target>Devises</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:57</note>
+      </trans-unit>
+      <trans-unit id="0323de4f66a1700e2173e9bcdce02715">
+        <source>Logout</source>
+        <target>Déconnexion</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:78</note>
+      </trans-unit>
+      <trans-unit id="d6260ee0bf52c76fcd5fdc1d52c72fec">
+        <source>Logged Out Success</source>
+        <target>Déconnexion réussie</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/sidebars.tpl:84</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/myaccount.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>Mon compte</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount.tpl:15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/footer.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="0175d99cacecd665432738bcbe18c20a">
+        <source>No links here</source>
+        <target>Aucun lien ici</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/footer.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/_partials/tos.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="1cc546555d81270fadcab329d12e39f2">
+        <source>Our Terms</source>
+        <target>Nos conditions générales</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/tos.tpl:15</note>
+      </trans-unit>
+      <trans-unit id="8764cd8a41b3b4d5c0ae1348ca39e57c">
+        <source>I Agree</source>
+        <target>Je consens</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/_partials/tos.tpl:21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="63d5049791d9d79d86e9a108b0a999ca">
+        <source>Reference</source>
+        <target>Référence</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:36</note>
+      </trans-unit>
+      <trans-unit id="dae089c610e4a25a19ad440372a35c2b">
+        <source>Order returns</source>
+        <target>Retours</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:15</note>
+      </trans-unit>
+      <trans-unit id="9fb8d0b895e9d0036f3e6758b493c619">
+        <source>Select for Return</source>
+        <target>Sélectionner pour retour</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:22</note>
+      </trans-unit>
+      <trans-unit id="e0626222614bdee31951d84c64e5e9ff">
+        <source>Select</source>
+        <target>Sélectionner</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="e1073077cde0ec0aac4f29a3eefbb304">
+        <source>Ordered Quantity</source>
+        <target>Quantité commandée</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:82</note>
+      </trans-unit>
+      <trans-unit id="4535d53648da3fa8d92c7f13677d5c20">
+        <source>Return Quantity</source>
+        <target>Quantité retournée</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:86</note>
+      </trans-unit>
+      <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
+        <source>Quantity</source>
+        <target>Quantité</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:99</note>
+      </trans-unit>
+      <trans-unit id="fdfac28b5ad628f25649d9c2eb4fc62e">
+        <source>Returned</source>
+        <target>Retourné</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:110</note>
+      </trans-unit>
+      <trans-unit id="6c957f72dc8cdacc75762f2cbdcdfaf2">
+        <source>Unit price</source>
+        <target>Prix unitaire</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:111</note>
+      </trans-unit>
+      <trans-unit id="0eede552438475bdfe820c13f24c9399">
+        <source>Total price</source>
+        <target>Prix total</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:112</note>
+      </trans-unit>
+      <trans-unit id="2502afdac3812f7cec8cd8bd3bb6283e">
+        <source>Request has been sent</source>
+        <target>Votre demande a été envoyée</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:143</note>
+      </trans-unit>
+      <trans-unit id="6e6f571bfda49f06b2dd6302e71f0f77">
+        <source>Unable to send request</source>
+        <target>Votre demande n'a pas pu être envoyée</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl:149</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/product.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="e67010114310da96b7cc2176f23e36a1">
+        <source>Size Guide</source>
+        <target>Guide des tailles</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/product.tpl:173</note>
+      </trans-unit>
+      <trans-unit id="795b862fa89e92d4d48e43120309adb0">
+        <source>Click "Apply Attributes" button</source>
+        <target>Cliquez sur le bouton "Appliquer les attributs"</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/product.tpl:214</note>
+      </trans-unit>
+      <trans-unit id="54d0bd9d806c4630f46dca261a9db212">
+        <source>Apply Attributes</source>
+        <target>Appliquer les attributs</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/product.tpl:220</note>
+      </trans-unit>
+      <trans-unit id="bbd790eb01cfa791ed9afcc21c88fd74">
+        <source>No products in stock with such attributes</source>
+        <target>Aucun produits en stock avec ces attributs</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/product.tpl:247</note>
+      </trans-unit>
+      <trans-unit id="97cba559bf282aeb32100e5a1b0af03e">
+        <source>The minimum quantity required to buy</source>
+        <target>La quantité minimum pour passer commande</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/product.tpl:271</note>
+      </trans-unit>
+      <trans-unit id="10993634931aeeaf78651f55cce0e22f">
+        <source>The product is in your cart now</source>
+        <target>Le produit est dans votre panier maintenant</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/product.tpl:275</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/listing/category-filter.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Ajouter au panier</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/category-filter.tpl:208</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/_partials/miniatures/product-miniature.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="2024b8d433af5206354001f5d3fb5e69">
+        <source>Unable to Add to cart</source>
+        <target>Impossible d'ajouter au panier</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/miniatures/product-miniature.tpl:69</note>
+      </trans-unit>
+      <trans-unit id="453e6aa38d87b28ccae545967c53004f">
+        <source>Unavailable</source>
+        <target>Indisponible</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/miniatures/product-miniature.tpl:64</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/_partials/load-more.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="01834cc06235f537075ae830cc300434">
+        <source>Show More Products</source>
+        <target>Afficher plus de produits</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/load-more.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="cd1a49598f061411d70657078cc45d92">
+        <source>No more products</source>
+        <target>Pas plus de produits</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/load-more.tpl:27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="b4faa95ad9652ad789c9c6a99aeddb1f">
+        <source>Product Filter</source>
+        <target>Filtre</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:17</note>
+      </trans-unit>
+      <trans-unit id="059a1aa256b770eca2d69c096f759ad0">
+        <source>Sort By</source>
+        <target>Trier par</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:136</note>
+      </trans-unit>
+      <trans-unit id="ad24ffca4f9e9c0c7e80fe1512df6db9">
+        <source>Relevance</source>
+        <target>Pertinence</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:139</note>
+      </trans-unit>
+      <trans-unit id="05d61847840bcddb5d37374de3be0ccc">
+        <source>Name, A to Z</source>
+        <target>Nom, A to Z</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:142</note>
+      </trans-unit>
+      <trans-unit id="e21f2ef58ff858167655c18a874f9706">
+        <source>Name, Z to A</source>
+        <target>Nom, de Z à A</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:145</note>
+      </trans-unit>
+      <trans-unit id="e2174d7435696694b8f4d984d99eef03">
+        <source>Price, low to high</source>
+        <target>Prix, du plus bas au plus élevé</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:148</note>
+      </trans-unit>
+      <trans-unit id="0ee81913615b71aba7dc8bbf1f144672">
+        <source>Price, high to low</source>
+        <target>Prix, du plus haut au plus bas</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:151</note>
+      </trans-unit>
+      <trans-unit id="e97eafe145a739cf2f2bf11cffd34cea">
+        <source>Add date, old to new</source>
+        <target>Ajouter une date, du plus ancien au plus récent</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:154</note>
+      </trans-unit>
+      <trans-unit id="a7c3b9f85c9a5253f1847dd53ecb8b37">
+        <source>Add date, new to old</source>
+        <target>Ajouter une date, du plus récent au plus ancien</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:157</note>
+      </trans-unit>
+      <trans-unit id="8e70c147b34eeaacb7e14ccffa7da17b">
+        <source>Products Per Page</source>
+        <target>Produits par page</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:165</note>
+      </trans-unit>
+      <trans-unit id="9639e32cab248434a17ab32237cb3b71">
+        <source>Apply</source>
+        <target>Appliquer</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:175</note>
+      </trans-unit>
+      <trans-unit id="217ace39eea245974f3d1e99b8f58dec">
+        <source>Unable to Sort Products</source>
+        <target>Impossible de trier les produits</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl:183</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/_partials/block-address.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="505a83f220c02df2f85c3810cd9ceb38">
+        <source>Success</source>
+        <target>Succès</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/block-address.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="352929f4d11fffba6ee2661434d2f1b9">
+        <source>Unable to update address</source>
+        <target>Impossible de mettre à jour l'adresse</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/block-address.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/listing/prices-drop.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="7f82cf6868d89ca72d670092caedfb86">
+        <source>Prices Drop</source>
+        <target>Baisse des prix</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/prices-drop.tpl:15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/listing/new-products.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="9ff0635f5737513b1a6f559ac2bff745">
+        <source>New products</source>
+        <target>Nouveaux produits</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/new-products.tpl:15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/listing/category.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="f73cc399b5ce12735a57f03414f09ef9">
+        <source>Subcategories</source>
+        <target>Subcategories</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/category.tpl:52</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/listing/search.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="cdffa3e8c7359c6daf7a543ffc64a777">
+        <source>You are searching for</source>
+        <target>Vous recherchez</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/search.tpl:20</note>
+      </trans-unit>
+      <trans-unit id="8e815826578aef604250dd03da2ff8ab">
+        <source>Your search request is empty</source>
+        <target>Votre demande de recherche est vide</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/search.tpl:22</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/catalog/listing/best-sales.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="184b12f3c28c9384e520f64fd63e0a43">
+        <source>Bestsllers</source>
+        <target>Meilleurs ventes</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/catalog/listing/best-sales.tpl:15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/checkout/_partials/steps/addresses.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="62f0d8b25f9f2fb39804f08ec42f6bf9">
+        <source>Edit addresses</source>
+        <target>Modifier les adresses</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/checkout/_partials/steps/addresses.tpl:97</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/checkout/_partials/cart-summary.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="e777553a9882d5c9cebe7efd827aaf2d">
+        <source>Checkout Summary</source>
+        <target>Résumé de la commande</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/checkout/_partials/cart-summary.tpl:12</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/checkout/_partials/cart-voucher.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="2ce3abf5f448fdf5a203e9a6fb0d9c06">
+        <source>Applied Vouchers</source>
+        <target>Chèques utilisés</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/checkout/_partials/cart-voucher.tpl:16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/checkout/cart.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="b75443a19207ed3a3552edda86536857">
+        <source>Shopping Cart</source>
+        <target>Panier d'achat</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/checkout/cart.tpl:16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/myaccount-links.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf">
+        <source>Information</source>
+        <target>Information</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount-links.tpl:13</note>
+      </trans-unit>
+      <trans-unit id="da4791bc9700aca963b560fcb7db0605">
+        <source>Add first address</source>
+        <target>Ajouter la première adresse</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount-links.tpl:24</note>
+      </trans-unit>
+      <trans-unit id="cea4dedd9147586b361b90e900944690">
+        <source>Order history and details</source>
+        <target>Historique et détails des commandes</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount-links.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="d1a365ea7809ae5831c6d9f86886630c">
+        <source>Credit slips</source>
+        <target>Bons de crédit</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount-links.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="a82868319826fb092b73968e661b5b38">
+        <source>Vouchers</source>
+        <target>Chèques-cadeaux</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount-links.tpl:45</note>
+      </trans-unit>
+      <trans-unit id="e06d7593c1cd6dabef450be6c3da7091">
+        <source>Merchandise returns</source>
+        <target>Retours de marchandises</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/myaccount-links.tpl:52</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/addresses.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf">
+        <source>Addresses</source>
+        <target>Adresses</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/addresses.tpl:15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/order-follow.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="9cf9ab35a1b24314913bb739d25a0b36">
+        <source>Here is a list of pending merchandise returns</source>
+        <target>Here is a list of pending merchandise returns</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:16</note>
+      </trans-unit>
+      <trans-unit id="a240fa27925a635b08dc28c9e4f9216d">
+        <source>Order</source>
+        <target>Order</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:21</note>
+      </trans-unit>
+      <trans-unit id="988fd738de9c6d177440c5dcf69e73ce">
+        <source>Return</source>
+        <target>Return</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:25</note>
+      </trans-unit>
+      <trans-unit id="d442cb92c3b031eceacbfe87605b9356">
+        <source>Package status</source>
+        <target>Package status</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="446faa7da2d42ba4ffeda73cb119dd91">
+        <source>Date issued</source>
+        <target>Date issued</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="6d72e074fdface4ae892543d39434175">
+        <source>Returns form</source>
+        <target>Returns form</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:37</note>
+      </trans-unit>
+      <trans-unit id="daf51d7d9e10e6a469434ae548d9a173">
+        <source>Print out</source>
+        <target>Print out</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:39</note>
+      </trans-unit>
+      <trans-unit id="8b18900ae12bf0456a7a45ac23f38b74">
+        <source>You have no merchandise return authorizations</source>
+        <target>You have no merchandise return authorizations</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-follow.tpl:50</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/password.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="ad80cea23926afd595af04ae78b6fd85">
+        <source>Password Recovery</source>
+        <target>Récupération du mot de passe</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/password.tpl:16</note>
+      </trans-unit>
+      <trans-unit id="11ee1b9f5bbd27878cc31169e198a5d1">
+        <source>Some error occured</source>
+        <target>Une erreur s'est produite</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/password.tpl:40</note>
+      </trans-unit>
+      <trans-unit id="bf84cf8ca9b9d39a7ee3304aac1d4f81">
+        <source>We have sent a link to reset your password to your email</source>
+        <target>Nous avons envoyé un lien pour réinitialiser votre mot de passe à votre adresse e-mail</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/password.tpl:34</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/password-new.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="41980e9b51cf92345135030789a5be73">
+        <source>Your password has been changed successfully</source>
+        <target>Votre mot de passe a été modifié avec succès</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/password-new.tpl:40</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/_partials/order-messages.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="5b2c2fbe546d4b9cb3ff081c90d49cd5">
+        <source>Unable to send a message</source>
+        <target>Unable to send a message</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-messages.tpl:57</note>
+      </trans-unit>
+      <trans-unit id="ee2eb128fc522e74189922ea728ab46d">
+        <source>Your message has been sent to our staff</source>
+        <target>Votre message a été envoyé à notre personnel</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/_partials/order-messages.tpl:64</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/discount.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="95b71d225d295ffe6c889c2dbe4a9129">
+        <source>There are no discounts yet</source>
+        <target>Il n'y a pas encore de réductions.</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/discount.tpl:83</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/identity.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="c9c5c65fb4af9cf90eb99b3b84424189">
+        <source>Identity</source>
+        <target>Identité </target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:16</note>
+      </trans-unit>
+      <trans-unit id="127469a6b4253ebb77adccc0dd48461e">
+        <source>Mr.</source>
+        <target>M.</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:23</note>
+      </trans-unit>
+      <trans-unit id="773442a125403cbb194c24c5a8d59b88">
+        <source>Mrs.</source>
+        <target>Mme.</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="aac772216aecbeca0e86d06671fe985a">
+        <source>Birthday</source>
+        <target>Anniversaire</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:47</note>
+      </trans-unit>
+      <trans-unit id="a9e3d6296e9b194ee466230d8438935a">
+        <source>Receive offers from our partners</source>
+        <target>Recevoir les offres de nos partenaires</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="6f6162d3a052bb330e9c60285c74c6c9">
+        <source>Sign up for our newsletter</source>
+        <target>Inscrivez-vous à notre newsletter</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Sauvegarder</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:59</note>
+      </trans-unit>
+      <trans-unit id="05ec1b47e5fc44af791e6aae16c1c376">
+        <source>Personal information is changed</source>
+        <target>Les renseignements personnels sont modifiés</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:65</note>
+      </trans-unit>
+      <trans-unit id="6727141d06cf16b533150262ff68c427">
+        <source>Something goes wrong. Please try again</source>
+        <target>Quelque chose ne va pas. Veuillez réessayer</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/identity.tpl:71</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/order-detail.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="f5d74ea75357b5e139854c14f8e24fe3">
+        <source>Order details</source>
+        <target>Détails de la commande</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/order-detail.tpl:16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/customer/history.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="42027dc8724f95b3f0a6bef9630cad3d">
+        <source>Order History</source>
+        <target>Historique des commandes</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/customer/history.tpl:16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/mobile/modules/ps_searchbar/ps_searchbar.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Rechereche</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_searchbar/ps_searchbar.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="53b1d20f2003661549a9689707423447">
+        <source>Search result page</source>
+        <target>Page de résultats de recherche</target>
+        <note>Context:
+File: themes/alysum/templates/mobile/modules/ps_searchbar/ps_searchbar.tpl:66</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin6731" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="0c275ec56e3089a57129f097aee84d33">
+        <source>Sort Products</source>
+        <target>Trier les produits</target>
+        <note>Context:
+File: admin6731:</note>
+      </trans-unit>
+      <trans-unit id="6b46ae48421828d9973deec5fa9aa0c3">
+        <source>Sort</source>
+        <target>Trier</target>
+        <note>Context:
+File: admin6731:</note>
+      </trans-unit>
+      <trans-unit id="35a97081229e6fed68cf3db32e4cb8db">
+        <source>You Have Successfully Logged Out Of Your Account</source>
+        <target>Vous avez réussi à vous déconnecter de votre compte</target>
+        <note>Context:
+File: admin6731:</note>
+      </trans-unit>
+      <trans-unit id="7accdb8d4e2ba9a05700334297981f53">
+        <source>Something went wrong, please try again later</source>
+        <target>Quelque chose a mal tourné, veuillez réessayer plus tard.</target>
+        <note>Context:
+File: admin6731:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

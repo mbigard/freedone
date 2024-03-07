@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin849iewvwh" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="b718adec73e04ce3ec720dd11a06a308">
+        <source>ID</source>
+        <target>ID</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="b450fdef2453e92c31263a70f14fbd7b">
+        <source>¤</source>
+        <target>¤</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="0bcef9c45bd8a48eda1b26eb0c61c869">
+        <source>%</source>
+        <target>%</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

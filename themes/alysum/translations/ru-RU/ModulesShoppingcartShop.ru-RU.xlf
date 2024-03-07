@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin969ehdgat" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="76b133716b02dfc40f097e722075ddbd">
+        <source>My Cart</source>
+        <target>Корзина</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Доставка</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4b78ac8eb158840e9638a3aeb26c4a9d">
+        <source>Tax</source>
+        <target>Налог</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6b3f728ca2021a16bc30f6021c4eab50">
+        <source>Cart Total</source>
+        <target>Корзина</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Корзина</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
+        <source>Checkout</source>
+        <target>Оформить</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

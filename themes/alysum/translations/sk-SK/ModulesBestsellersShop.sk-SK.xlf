@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/modules/ps_bestsellers/views/templates/hook/ps_bestsellers.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="d7b2933ba512ada478c97fa43dd7ebe6">
+        <source>Best Sellers</source>
+        <target></target>
+        <note>Line: 27</note>
+      </trans-unit>
+      <trans-unit id="eae99cd6a931f3553123420b16383812">
+        <source>All best sellers</source>
+        <target></target>
+        <note>Line: 38</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

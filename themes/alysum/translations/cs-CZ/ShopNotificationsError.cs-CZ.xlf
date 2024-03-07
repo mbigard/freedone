@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="ea34b5c6cf6511c7c9e23cf7bf5d6792">
+        <source>Your address is incomplete, please update it.</source>
+        <target>Vaše adresa není úplná, aktualizujte ji.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4837d38bc896f38c39d6f7024e466967">
+        <source>This voucher is not combinable with an other voucher already in your cart: %s</source>
+        <target>Tento voucher není kombinovatelný s jiným voucherem, který je již v košíku: %s</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="1f597c6798d6a39dd2bde999d547331a">
+        <source>%s is required.</source>
+        <target>%s Je požadováno</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="d21c3bf7d25db04b73e7e269aef555fe">
+        <source>This voucher does not exist.</source>
+        <target>Tento voucher neexistuje.</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="cba0b206627d45fbf0ae707e20d4a38f">
+        <source>Invalid password</source>
+        <target>Neplatné heslo</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="a6f2a48726b0d36107e00e20795d3d37">
+        <source>Invalid login</source>
+        <target>Neplatné přihlášení</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="a3de4dbbfe3bac5d271a16fb8a6f942e">
+        <source>Login is required</source>
+        <target>Je vyžadováno přihlášení</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

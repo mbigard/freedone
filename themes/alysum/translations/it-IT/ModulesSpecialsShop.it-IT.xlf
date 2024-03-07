@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminstatus" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="48fa6c88a7a8cd88267dcdd5285a439d">
+        <source>On Sale</source>
+        <target>In Promo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f95ceb82c51c99dc9b9e5678b291c44b">
+        <source>All sale products</source>
+        <target>Tutti i prodotti in Promo</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

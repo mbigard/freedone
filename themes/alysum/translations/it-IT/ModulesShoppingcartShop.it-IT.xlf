@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminstatus" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Carrello</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Spedizioni</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

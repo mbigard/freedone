@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="cf8156f1f57a8603cd6b3a28c9c2c61b">
+        <source>Featured Products</source>
+        <target>Polecane produkty</target>
+        <note>Context:
+File: themes/alysum/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="40dec546414c1ebdfde8d9858f0938c3">
+        <source>All products</source>
+        <target>Wszystkie produkty</target>
+        <note>Context:
+File: themes/alysum/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl:38</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

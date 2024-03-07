@@ -1,0 +1,5 @@
+#footer_account_list li,
+#footer_account_list .ets_ws_accountlink {
+    width: 100%;
+    padding: 0;
+}

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="ca72fc54685b1d86fd52b44fa893805a">
+        <source>You have to agree with out GDPR policy</source>
+        <target>Trebuie sa accepti Termenii si Conditiile</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d6260ee0bf52c76fcd5fdc1d52c72fec">
+        <source>Logged Out Success</source>
+        <target>Te-ai dezautentificat cu succes</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="453e6aa38d87b28ccae545967c53004f">
+        <source>Unavailable</source>
+        <target>Indisponibil</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f73cc399b5ce12735a57f03414f09ef9">
+        <source>Subcategories</source>
+        <target>Subcategorii</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9af8635591dc44009ccd8e5389722ec">
+        <source>No products found</source>
+        <target>Niciun produs gasit</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="97cba559bf282aeb32100e5a1b0af03e">
+        <source>The minimum quantity required to buy</source>
+        <target>Cantitatea minima necesara pentru cumparare</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="01557660faa28f8ec65992d1ddbb7b79">
+        <source>Your Email</source>
+        <target>Adresa ta de email</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="63d5049791d9d79d86e9a108b0a999ca">
+        <source>Reference</source>
+        <target>Cod produs</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="93cef9783193d58c291ee1c3962ca0f9">
+        <source>Unable to Load More Products</source>
+        <target>Nu se pot incarca mai multe produse</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="05d61847840bcddb5d37374de3be0ccc">
+        <source>Name, A to Z</source>
+        <target>Nume, A - Z</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e21f2ef58ff858167655c18a874f9706">
+        <source>Name, Z to A</source>
+        <target>Nume, Z - A</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e97eafe145a739cf2f2bf11cffd34cea">
+        <source>Add date, old to new</source>
+        <target>Data adaugarii, descrescator</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a7c3b9f85c9a5253f1847dd53ecb8b37">
+        <source>Add date, new to old</source>
+        <target>Data adaugarii, crescator</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="67135a14d3ac4f1369633dd006d6efec">
+        <source>your@email.com</source>
+        <target>adresa ta de email</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="546e02eaa9a986c83cc347e273269f2c">
+        <source>Notify me when available</source>
+        <target>Alerta stoc</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6f56d9cf8d4afc0844563bafa77b26e6">
+        <source>Email address is missing</source>
+        <target>Adresa de email lipseste</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9a15f6d66d9dbe6f1cfd2b17cc74b37c">
+        <source>Wrong email address</source>
+        <target>Adresa de email gresita</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="795b862fa89e92d4d48e43120309adb0">
+        <source>Click "Apply Attributes" button</source>
+        <target>Apasa pe "Aplica atributele"</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contact</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="863cf84b34def228394c03c156bff42c">
+        <source>Select reference</source>
+        <target>Alege codul de produs</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="13d6078da2e6592822ede083931d6826">
+        <source>Attach File</source>
+        <target>Adauga un fisier</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target>Adresa de email</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c4a6ac1e6a151527bfa9d37a8222fa95">
+        <source>Email address is empty</source>
+        <target>Adresa de email nu este completata</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4">
+        <source>Message</source>
+        <target>Mesaj</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e1576b8ef7d256d90faa439624869ff5">
+        <source>A message is empty</source>
+        <target>Campul "Mesaj" este gol</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d">
+        <source>Send Message</source>
+        <target>Trimite</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="95b71d225d295ffe6c889c2dbe4a9129">
+        <source>There are no discounts yet</source>
+        <target>Nu ai niciun voucher momentan</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="447b4e8ec097e965560a6e2cfd5b7daf">
+        <source>You have to login to add product to favorites</source>
+        <target>Trebuie sa te autentifici pentru a adauga produse in lista de Favorite</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

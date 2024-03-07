@@ -1,0 +1,57 @@
+.blockreassurance{padding-top:10px;text-align:center;width:100%}.blockreassurance .reass-item{display:inline-block;text-align:center;vertical-align:top}.blockreassurance .block-title{font-weight:bold}.blockreassurance .block-icon,.blockreassurance .block-icon img,.blockreassurance .block-icon svg{height:70px}@media (max-width: 575px){.blockreassurance{text-align:left}.blockreassurance .block-icon{display:inline-block;height:35px;float:left;margin:10px;width:35px}.blockreassurance .block-icon img,.blockreassurance .block-icon svg{height:35px;width:35px}.blockreassurance .block-title{display:inline-block;height:35px;max-width:calc(100% - 55px);padding-top:10px}}.blockreassurance_product{margin-top:25px}.blockreassurance_product .item-product{display:inline-block;height:35px;float:left;margin-right:5px;padding-top:5px;width:35px}.blockreassurance_product .item-product img,.blockreassurance_product .item-product svg{height:35px;width:35px}.blockreassurance_product p.block-title{line-height:40px}body#checkout .container-blockreassurance{min-height:auto}
+
+#main-content > .block-reassurance ul {
+    list-style: none
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px
+}
+#main-content > .block-reassurance ul li {
+  margin:0 15px
+}
+.block-reassurance {
+  margin-top: 30px
+}
+.block-reassurance li .brimg {
+  width:30px;
+  height:30px;
+  margin-right: 20px;
+}
+.block-reassurance li:not(:first-child) {
+  margin-top: 10px
+}
+.block-reassurance li,
+.blockreassurance_product > div {
+  display:flex;
+  align-items:center;
+  padding: 15px 30px;
+  background: #f9f9f9;
+  font-size:14px;
+  line-height: 20px;
+  color:#484848;
+}
+.block-reassurance li span{
+  display: block;
+  white-space: normal;
+  padding: 0
+}
+body .blockreassurance_product .item-product {
+  padding:0
+}
+body .blockreassurance_product p.block-title {
+  font-size:14px;
+  line-height: 20px;
+  margin: 0;
+  color:#484848;
+  max-width: 270px
+}
+.blockreassurance_product > div:empty {display:none}
+.blockreassurance_product > div {
+  margin-bottom: 10px;
+  background: #f8f8f8;
+  padding: 20px;
+  font-size: 16px
+}
+.cart-grid-right .blockreassurance_product {
+  margin-left: 20px
+}

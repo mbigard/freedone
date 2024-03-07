@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/accordion-title.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="708714aa8d5537518f5a8a8439012354">
+        <source>Accordion Title</source>
+        <target>Accordion Title</target>
+        <note>Line: 13</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/cookies.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Line: 24</note>
+      </trans-unit>
+      <trans-unit id="da6efaa678c03355b06ac5aea622c9bf">
+        <source>This website uses cookies to ensure you get the best experience on our website</source>
+        <target>This website uses cookies to ensure you get the best experience on our website</target>
+        <note>Line: 14</note>
+      </trans-unit>
+      <trans-unit id="d59048f21fd887ad520398ce677be586">
+        <source>Learn more</source>
+        <target>Learn more</target>
+        <note>Line: 14</note>
+      </trans-unit>
+      <trans-unit id="320620f678cb15ebf7a577abd04427f3">
+        <source>I accept</source>
+        <target>I accept</target>
+        <note>Line: 15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/footer-bottom.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="31f803c0e3b881bf2fc62b248c8aaace">
+        <source>Facebook Messenger</source>
+        <target>Facebook Messenger</target>
+        <note>Line: 158</note>
+      </trans-unit>
+      <trans-unit id="083ff21e748c48e0c378a7c3e8dd4fa5">
+        <source>WhatsApp Chat</source>
+        <target>WhatsApp Chat</target>
+        <note>Line: 161</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/footer.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="0175d99cacecd665432738bcbe18c20a">
+        <source>No links here</source>
+        <target>No links here</target>
+        <note>Line: 31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/gdpr.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="ca72fc54685b1d86fd52b44fa893805a">
+        <source>You have to agree with out GDPR policy</source>
+        <target>You have to agree with out GDPR policy</target>
+        <note>Line: 16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/header.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="b61541208db7fa7dba42c85224405911">
+        <source>Menu</source>
+        <target>Menu</target>
+        <note>Line: 41</note>
+      </trans-unit>
+      <trans-unit id="97e0d62d1db5473366dd6e7ebd56f596">
+        <source>Shop logo</source>
+        <target>Shop logo</target>
+        <note>Line: 24</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/sidebars.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="722377312be65aa3377c91fb9400b850">
+        <source>User Area</source>
+        <target>User Area</target>
+        <note>Line: 19</note>
+      </trans-unit>
+      <trans-unit id="adb831a7fdd83dd1e2a309ce7591dff8">
+        <source>Guest</source>
+        <target>Guest</target>
+        <note>Line: 28</note>
+      </trans-unit>
+      <trans-unit id="c1a5298f939e87e8f962a5edfc206918">
+        <source>Hi</source>
+        <target>Hi</target>
+        <note>Line: 31</note>
+      </trans-unit>
+      <trans-unit id="3a08e2e340ab29fd9263af48193cbf8e">
+        <source>Languages</source>
+        <target>Languages</target>
+        <note>Line: 92</note>
+      </trans-unit>
+      <trans-unit id="dfcfc43722eef1eab1e4a12e50a068b1">
+        <source>Currencies</source>
+        <target>Currencies</target>
+        <note>Line: 97</note>
+      </trans-unit>
+      <trans-unit id="0323de4f66a1700e2173e9bcdce02715">
+        <source>Logout</source>
+        <target>Logout</target>
+        <note>Line: 78</note>
+      </trans-unit>
+      <trans-unit id="d6260ee0bf52c76fcd5fdc1d52c72fec">
+        <source>Logged Out Success</source>
+        <target>Logged Out Success</target>
+        <note>Line: 84</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/_partials/tos.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="1cc546555d81270fadcab329d12e39f2">
+        <source>Our Terms</source>
+        <target>Our Terms</target>
+        <note>Line: 15</note>
+      </trans-unit>
+      <trans-unit id="8764cd8a41b3b4d5c0ae1348ca39e57c">
+        <source>I Agree</source>
+        <target>I Agree</target>
+        <note>Line: 21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/_partials/load-more.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="01834cc06235f537075ae830cc300434">
+        <source>Show More Products</source>
+        <target>Show More Products</target>
+        <note>Line: 14</note>
+      </trans-unit>
+      <trans-unit id="93cef9783193d58c291ee1c3962ca0f9">
+        <source>Unable to Load More Products</source>
+        <target>Unable to Load More Products</target>
+        <note>Line: 22</note>
+      </trans-unit>
+      <trans-unit id="cd1a49598f061411d70657078cc45d92">
+        <source>No more products</source>
+        <target>No more products</target>
+        <note>Line: 27</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/_partials/miniatures/product-miniature.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="453e6aa38d87b28ccae545967c53004f">
+        <source>Unavailable</source>
+        <target>Unavailable</target>
+        <note>Line: 91</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/_partials/sort-orders.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="b4faa95ad9652ad789c9c6a99aeddb1f">
+        <source>Product Filter</source>
+        <target>Product Filter</target>
+        <note>Line: 17</note>
+      </trans-unit>
+      <trans-unit id="3b33fab211b2ef25e980bb780720f9ac">
+        <source>No Selection</source>
+        <target>No Selection</target>
+        <note>Line: 98</note>
+      </trans-unit>
+      <trans-unit id="059a1aa256b770eca2d69c096f759ad0">
+        <source>Sort By</source>
+        <target>Sort By</target>
+        <note>Line: 115</note>
+      </trans-unit>
+      <trans-unit id="ad24ffca4f9e9c0c7e80fe1512df6db9">
+        <source>Relevance</source>
+        <target>Relevance</target>
+        <note>Line: 118</note>
+      </trans-unit>
+      <trans-unit id="05d61847840bcddb5d37374de3be0ccc">
+        <source>Name, A to Z</source>
+        <target>Name, A to Z</target>
+        <note>Line: 121</note>
+      </trans-unit>
+      <trans-unit id="e21f2ef58ff858167655c18a874f9706">
+        <source>Name, Z to A</source>
+        <target>Name, Z to A</target>
+        <note>Line: 124</note>
+      </trans-unit>
+      <trans-unit id="e2174d7435696694b8f4d984d99eef03">
+        <source>Price, low to high</source>
+        <target>Price, low to high</target>
+        <note>Line: 127</note>
+      </trans-unit>
+      <trans-unit id="0ee81913615b71aba7dc8bbf1f144672">
+        <source>Price, high to low</source>
+        <target>Price, high to low</target>
+        <note>Line: 130</note>
+      </trans-unit>
+      <trans-unit id="e97eafe145a739cf2f2bf11cffd34cea">
+        <source>Add date, old to new</source>
+        <target>Add date, old to new</target>
+        <note>Line: 133</note>
+      </trans-unit>
+      <trans-unit id="a7c3b9f85c9a5253f1847dd53ecb8b37">
+        <source>Add date, new to old</source>
+        <target>Add date, new to old</target>
+        <note>Line: 136</note>
+      </trans-unit>
+      <trans-unit id="8e70c147b34eeaacb7e14ccffa7da17b">
+        <source>Products Per Page</source>
+        <target>Products Per Page</target>
+        <note>Line: 144</note>
+      </trans-unit>
+      <trans-unit id="9639e32cab248434a17ab32237cb3b71">
+        <source>Apply</source>
+        <target>Apply</target>
+        <note>Line: 154</note>
+      </trans-unit>
+      <trans-unit id="217ace39eea245974f3d1e99b8f58dec">
+        <source>Unable to Sort Products</source>
+        <target>Unable to Sort Products</target>
+        <note>Line: 162</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/listing/best-sales.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="184b12f3c28c9384e520f64fd63e0a43">
+        <source>Bestsllers</source>
+        <target>Bestsllers</target>
+        <note>Line: 15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/listing/category.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="f73cc399b5ce12735a57f03414f09ef9">
+        <source>Subcategories</source>
+        <target>Subcategories</target>
+        <note>Line: 83</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/listing/new-products.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="9ff0635f5737513b1a6f559ac2bff745">
+        <source>New products</source>
+        <target>New products</target>
+        <note>Line: 15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/listing/prices-drop.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="7f82cf6868d89ca72d670092caedfb86">
+        <source>Prices Drop</source>
+        <target>Prices Drop</target>
+        <note>Line: 15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/listing/search.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="b9af8635591dc44009ccd8e5389722ec">
+        <source>No products found</source>
+        <target>No products found</target>
+        <note>Line: 34</note>
+      </trans-unit>
+      <trans-unit id="cdffa3e8c7359c6daf7a543ffc64a777">
+        <source>You are searching for</source>
+        <target>You are searching for</target>
+        <note>Line: 16</note>
+      </trans-unit>
+      <trans-unit id="8e815826578aef604250dd03da2ff8ab">
+        <source>Your search request is empty</source>
+        <target>Your search request is empty</target>
+        <note>Line: 18</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/catalog/product.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="2d0f6b8300be19cf35e89e66f0677f95">
+        <source>Add to cart</source>
+        <target>Add to cart</target>
+        <note>Line: 321</note>
+      </trans-unit>
+      <trans-unit id="2024b8d433af5206354001f5d3fb5e69">
+        <source>Unable to Add to cart</source>
+        <target>Unable to Add to cart</target>
+        <note>Line: 333</note>
+      </trans-unit>
+      <trans-unit id="dda9c06f33071c9b6fc237ee164109d8">
+        <source>Rating</source>
+        <target>Rating</target>
+        <note>Line: 149</note>
+      </trans-unit>
+      <trans-unit id="7032b42abe68c5dd09ee032a9232de71">
+        <source>Add review</source>
+        <target>Add review</target>
+        <note>Line: 164</note>
+      </trans-unit>
+      <trans-unit id="e67010114310da96b7cc2176f23e36a1">
+        <source>Size Guide</source>
+        <target>Size Guide</target>
+        <note>Line: 206</note>
+      </trans-unit>
+      <trans-unit id="795b862fa89e92d4d48e43120309adb0">
+        <source>Click "Apply Attributes" button</source>
+        <target>Click "Apply Attributes" button</target>
+        <note>Line: 254</note>
+      </trans-unit>
+      <trans-unit id="54d0bd9d806c4630f46dca261a9db212">
+        <source>Apply Attributes</source>
+        <target>Apply Attributes</target>
+        <note>Line: 259</note>
+      </trans-unit>
+      <trans-unit id="bbd790eb01cfa791ed9afcc21c88fd74">
+        <source>No products in stock with such attributes</source>
+        <target>No products in stock with such attributes</target>
+        <note>Line: 290</note>
+      </trans-unit>
+      <trans-unit id="97cba559bf282aeb32100e5a1b0af03e">
+        <source>The minimum quantity required to buy</source>
+        <target>The minimum quantity required to buy</target>
+        <note>Line: 326</note>
+      </trans-unit>
+      <trans-unit id="10993634931aeeaf78651f55cce0e22f">
+        <source>The product is in your cart now</source>
+        <target>The product is in your cart now</target>
+        <note>Line: 330</note>
+      </trans-unit>
+      <trans-unit id="782d6b28dce4e5d0b2ac92142c6624ba">
+        <source>Add to Favorites</source>
+        <target>Add to Favorites</target>
+        <note>Line: 342</note>
+      </trans-unit>
+      <trans-unit id="447b4e8ec097e965560a6e2cfd5b7daf">
+        <source>You have to login to add product to favorites</source>
+        <target>You have to login to add product to favorites</target>
+        <note>Line: 348</note>
+      </trans-unit>
+      <trans-unit id="fffc49526fd625e2156b67497cc89cfb">
+        <source>Unable to add to favorites</source>
+        <target>Unable to add to favorites</target>
+        <note>Line: 350</note>
+      </trans-unit>
+      <trans-unit id="67135a14d3ac4f1369633dd006d6efec">
+        <source>your@email.com</source>
+        <target>your@email.com</target>
+        <note>Line: 368</note>
+      </trans-unit>
+      <trans-unit id="01557660faa28f8ec65992d1ddbb7b79">
+        <source>Your Email</source>
+        <target>Your Email</target>
+        <note>Line: 368</note>
+      </trans-unit>
+      <trans-unit id="546e02eaa9a986c83cc347e273269f2c">
+        <source>Notify me when available</source>
+        <target>Notify me when available</target>
+        <note>Line: 372</note>
+      </trans-unit>
+      <trans-unit id="6f56d9cf8d4afc0844563bafa77b26e6">
+        <source>Email address is missing</source>
+        <target>Email address is missing</target>
+        <note>Line: 378</note>
+      </trans-unit>
+      <trans-unit id="9a15f6d66d9dbe6f1cfd2b17cc74b37c">
+        <source>Wrong email address</source>
+        <target>Wrong email address</target>
+        <note>Line: 379</note>
+      </trans-unit>
+      <trans-unit id="34e80a799d144cfe4af46815e103f017">
+        <source>Reviews</source>
+        <target>Reviews</target>
+        <note>Line: 539</note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Line: 548</note>
+      </trans-unit>
+      <trans-unit id="614cffa523202658a898e34a5d94d05e">
+        <source>Your Name</source>
+        <target>Your Name</target>
+        <note>Line: 550</note>
+      </trans-unit>
+      <trans-unit id="0be8406951cdfda82f00f79328cf4efc">
+        <source>Comment</source>
+        <target>Comment</target>
+        <note>Line: 552</note>
+      </trans-unit>
+      <trans-unit id="71dce71a053a169d96b4609039fcf4f9">
+        <source>Thanks for review</source>
+        <target>Thanks for review</target>
+        <note>Line: 568</note>
+      </trans-unit>
+      <trans-unit id="9c44aaf509a41c3442189de96aa53f34">
+        <source>Unable to post review</source>
+        <target>Unable to post review</target>
+        <note>Line: 569</note>
+      </trans-unit>
+      <trans-unit id="7d0db380a5b95a8ba1da0bca241abda1">
+        <source>at</source>
+        <target>at</target>
+        <note>Line: 580</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/checkout/_partials/cart-detailed-actions.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="6ff063fbc860a79759a7369ac32cee22">
+        <source>Checkout</source>
+        <target>Checkout</target>
+        <note>Line: 21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/checkout/_partials/cart-summary.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="e777553a9882d5c9cebe7efd827aaf2d">
+        <source>Checkout Summary</source>
+        <target>Checkout Summary</target>
+        <note>Line: 12</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/checkout/_partials/cart-voucher.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="2ce3abf5f448fdf5a203e9a6fb0d9c06">
+        <source>Applied Vouchers</source>
+        <target>Applied Vouchers</target>
+        <note>Line: 16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/checkout/_partials/steps/addresses.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="62f0d8b25f9f2fb39804f08ec42f6bf9">
+        <source>Edit addresses</source>
+        <target>Edit addresses</target>
+        <note>Line: 97</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/checkout/cart.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="5e464b6ffc9999da1ac97f1bc0c1fb5b">
+        <source>Unable to remove</source>
+        <target>Unable to remove</target>
+        <note>Line: 60</note>
+      </trans-unit>
+      <trans-unit id="d25322d1219e9664a392e865c4c744f9">
+        <source>Your Cart is Empty</source>
+        <target>Your Cart is Empty</target>
+        <note>Line: 95</note>
+      </trans-unit>
+      <trans-unit id="5706de961fb376d701be6e7762d8b09c">
+        <source>Waiting</source>
+        <target>Waiting</target>
+        <note>Line: 79</note>
+      </trans-unit>
+      <trans-unit id="f92965e2c8a7afb3c1b9a5c09a263636">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Line: 59</note>
+      </trans-unit>
+      <trans-unit id="068f80c7519d0528fb08e82137a72131">
+        <source>Products</source>
+        <target>Products</target>
+        <note>Line: 136</note>
+      </trans-unit>
+      <trans-unit id="9d5bf15117441a1b52eb1f0808e4aad3">
+        <source>Discounts</source>
+        <target>Discounts</target>
+        <note>Line: 140</note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Shipping</target>
+        <note>Line: 144</note>
+      </trans-unit>
+      <trans-unit id="4b78ac8eb158840e9638a3aeb26c4a9d">
+        <source>Tax</source>
+        <target>Tax</target>
+        <note>Line: 148</note>
+      </trans-unit>
+      <trans-unit id="96b0141273eabab320119c467cdcaf17">
+        <source>Total</source>
+        <target>Total</target>
+        <note>Line: 152</note>
+      </trans-unit>
+      <trans-unit id="b75443a19207ed3a3552edda86536857">
+        <source>Shopping Cart</source>
+        <target>Shopping Cart</target>
+        <note>Line: 16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/cms/contact.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Contact us</target>
+        <note>Line: 38</note>
+      </trans-unit>
+      <trans-unit id="7c10f7585dd525c5fab29a65b0f313c4">
+        <source>Our Location</source>
+        <target>Our Location</target>
+        <note>Line: 45</note>
+      </trans-unit>
+      <trans-unit id="5dd532f0a63d89c5af0243b74732f63c">
+        <source>Contact details</source>
+        <target>Contact details</target>
+        <note>Line: 54</note>
+      </trans-unit>
+      <trans-unit id="bcc254b55c4a1babdf1dcb82c207506b">
+        <source>Phone</source>
+        <target>Phone</target>
+        <note>Line: 59</note>
+      </trans-unit>
+      <trans-unit id="9810aa2b9f44401be4bf73188ef2b67d">
+        <source>Fax</source>
+        <target>Fax</target>
+        <note>Line: 61</note>
+      </trans-unit>
+      <trans-unit id="0576a72837405ddccc10d3ad0eb9d773">
+        <source>24/h customer service</source>
+        <target>24/h customer service</target>
+        <note>Line: 68</note>
+      </trans-unit>
+      <trans-unit id="06547581759c3a7c16ffd5076bfe307f">
+        <source>We providing really fast and professional support</source>
+        <target>We providing really fast and professional support</target>
+        <note>Line: 71</note>
+      </trans-unit>
+      <trans-unit id="a11ff95b6a3e373be9eb9ab305e31cf0">
+        <source>Please make sure the module "Contact form" is installed and enabled</source>
+        <target>Please make sure the module "Contact form" is installed and enabled</target>
+        <note>Line: 78</note>
+      </trans-unit>
+      <trans-unit id="6c27c08f40e1b0d9901deb9ff5f722f7">
+        <source>Subject Heading</source>
+        <target>Subject Heading</target>
+        <note>Line: 89</note>
+      </trans-unit>
+      <trans-unit id="863cf84b34def228394c03c156bff42c">
+        <source>Select reference</source>
+        <target>Select reference</target>
+        <note>Line: 99</note>
+      </trans-unit>
+      <trans-unit id="13d6078da2e6592822ede083931d6826">
+        <source>Attach File</source>
+        <target>Attach File</target>
+        <note>Line: 109</note>
+      </trans-unit>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target>Email address</target>
+        <note>Line: 114</note>
+      </trans-unit>
+      <trans-unit id="c4a6ac1e6a151527bfa9d37a8222fa95">
+        <source>Email address is empty</source>
+        <target>Email address is empty</target>
+        <note>Line: 115</note>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4">
+        <source>Message</source>
+        <target>Message</target>
+        <note>Line: 119</note>
+      </trans-unit>
+      <trans-unit id="e1576b8ef7d256d90faa439624869ff5">
+        <source>A message is empty</source>
+        <target>A message is empty</target>
+        <note>Line: 120</note>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d">
+        <source>Send Message</source>
+        <target>Send Message</target>
+        <note>Line: 130</note>
+      </trans-unit>
+      <trans-unit id="68ea08f4627622f85a58b329b06d9760">
+        <source>Something goes wrong. Please try again later</source>
+        <target>Something goes wrong. Please try again later</target>
+        <note>Line: 142</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/_partials/block-address.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="505a83f220c02df2f85c3810cd9ceb38">
+        <source>Success</source>
+        <target>Success</target>
+        <note>Line: 30</note>
+      </trans-unit>
+      <trans-unit id="352929f4d11fffba6ee2661434d2f1b9">
+        <source>Unable to update address</source>
+        <target>Unable to update address</target>
+        <note>Line: 31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/_partials/order-detail-return.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="63d5049791d9d79d86e9a108b0a999ca">
+        <source>Reference</source>
+        <target>Reference</target>
+        <note>Line: 36</note>
+      </trans-unit>
+      <trans-unit id="dae089c610e4a25a19ad440372a35c2b">
+        <source>Order returns</source>
+        <target>Order returns</target>
+        <note>Line: 15</note>
+      </trans-unit>
+      <trans-unit id="9fb8d0b895e9d0036f3e6758b493c619">
+        <source>Select for Return</source>
+        <target>Select for Return</target>
+        <note>Line: 22</note>
+      </trans-unit>
+      <trans-unit id="e0626222614bdee31951d84c64e5e9ff">
+        <source>Select</source>
+        <target>Select</target>
+        <note>Line: 28</note>
+      </trans-unit>
+      <trans-unit id="e1073077cde0ec0aac4f29a3eefbb304">
+        <source>Ordered Quantity</source>
+        <target>Ordered Quantity</target>
+        <note>Line: 82</note>
+      </trans-unit>
+      <trans-unit id="4535d53648da3fa8d92c7f13677d5c20">
+        <source>Return Quantity</source>
+        <target>Return Quantity</target>
+        <note>Line: 86</note>
+      </trans-unit>
+      <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
+        <source>Quantity</source>
+        <target>Quantity</target>
+        <note>Line: 99</note>
+      </trans-unit>
+      <trans-unit id="fdfac28b5ad628f25649d9c2eb4fc62e">
+        <source>Returned</source>
+        <target>Returned</target>
+        <note>Line: 110</note>
+      </trans-unit>
+      <trans-unit id="6c957f72dc8cdacc75762f2cbdcdfaf2">
+        <source>Unit price</source>
+        <target>Unit price</target>
+        <note>Line: 111</note>
+      </trans-unit>
+      <trans-unit id="0eede552438475bdfe820c13f24c9399">
+        <source>Total price</source>
+        <target>Total price</target>
+        <note>Line: 112</note>
+      </trans-unit>
+      <trans-unit id="2502afdac3812f7cec8cd8bd3bb6283e">
+        <source>Request has been sent</source>
+        <target>Request has been sent</target>
+        <note>Line: 143</note>
+      </trans-unit>
+      <trans-unit id="6e6f571bfda49f06b2dd6302e71f0f77">
+        <source>Unable to send request</source>
+        <target>Unable to send request</target>
+        <note>Line: 149</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/_partials/order-messages.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="5b2c2fbe546d4b9cb3ff081c90d49cd5">
+        <source>Unable to send a message</source>
+        <target>Unable to send a message</target>
+        <note>Line: 57</note>
+      </trans-unit>
+      <trans-unit id="ee2eb128fc522e74189922ea728ab46d">
+        <source>Your message has been sent to our staff</source>
+        <target>Your message has been sent to our staff</target>
+        <note>Line: 64</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/addresses.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="284b47b0bb63ae2df3b29f0e691d6fcf">
+        <source>Addresses</source>
+        <target>Addresses</target>
+        <note>Line: 15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/discount.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="95b71d225d295ffe6c889c2dbe4a9129">
+        <source>There are no discounts yet</source>
+        <target>There are no discounts yet</target>
+        <note>Line: 83</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/history.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="42027dc8724f95b3f0a6bef9630cad3d">
+        <source>Order History</source>
+        <target>Order History</target>
+        <note>Line: 16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/identity.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Line: 38</note>
+      </trans-unit>
+      <trans-unit id="bc910f8bdf70f29374f496f05be0330c">
+        <source>First Name</source>
+        <target>First Name</target>
+        <note>Line: 32</note>
+      </trans-unit>
+      <trans-unit id="77587239bf4c54ea493c7033e1dbf636">
+        <source>Last Name</source>
+        <target>Last Name</target>
+        <note>Line: 35</note>
+      </trans-unit>
+      <trans-unit id="c9c5c65fb4af9cf90eb99b3b84424189">
+        <source>Identity</source>
+        <target>Identity</target>
+        <note>Line: 16</note>
+      </trans-unit>
+      <trans-unit id="127469a6b4253ebb77adccc0dd48461e">
+        <source>Mr.</source>
+        <target>Mr.</target>
+        <note>Line: 23</note>
+      </trans-unit>
+      <trans-unit id="773442a125403cbb194c24c5a8d59b88">
+        <source>Mrs.</source>
+        <target>Mrs.</target>
+        <note>Line: 27</note>
+      </trans-unit>
+      <trans-unit id="aac772216aecbeca0e86d06671fe985a">
+        <source>Birthday</source>
+        <target>Birthday</target>
+        <note>Line: 47</note>
+      </trans-unit>
+      <trans-unit id="a9e3d6296e9b194ee466230d8438935a">
+        <source>Receive offers from our partners</source>
+        <target>Receive offers from our partners</target>
+        <note>Line: 51</note>
+      </trans-unit>
+      <trans-unit id="6f6162d3a052bb330e9c60285c74c6c9">
+        <source>Sign up for our newsletter</source>
+        <target>Sign up for our newsletter</target>
+        <note>Line: 55</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Line: 60</note>
+      </trans-unit>
+      <trans-unit id="05ec1b47e5fc44af791e6aae16c1c376">
+        <source>Personal information is changed</source>
+        <target>Personal information is changed</target>
+        <note>Line: 66</note>
+      </trans-unit>
+      <trans-unit id="6727141d06cf16b533150262ff68c427">
+        <source>Something goes wrong. Please try again</source>
+        <target>Something goes wrong. Please try again</target>
+        <note>Line: 72</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/loginform.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="99dea78007133396a7b8ed70578ac6ae">
+        <source>Login</source>
+        <target>Login</target>
+        <note>Line: 36</note>
+      </trans-unit>
+      <trans-unit id="0ba7583639a274c434bbe6ef797115a4">
+        <source>Register</source>
+        <target>Register</target>
+        <note>Line: 39</note>
+      </trans-unit>
+      <trans-unit id="3abbd962f6751baf05a19c4ebbc8d0e7">
+        <source>I agree to the</source>
+        <target>I agree to the</target>
+        <note>Line: 24</note>
+      </trans-unit>
+      <trans-unit id="99b0a9110ebd2fa6dcd57f7daa5b5d42">
+        <source>terms of service</source>
+        <target>terms of service</target>
+        <note>Line: 24</note>
+      </trans-unit>
+      <trans-unit id="59e6c232e3eacaa53b416eac5cdfc5eb">
+        <source>I want to register</source>
+        <target>I want to register</target>
+        <note>Line: 29</note>
+      </trans-unit>
+      <trans-unit id="a577ed06573d7b518d95f24d5c46fa7b">
+        <source>Unable to Login</source>
+        <target>Unable to Login</target>
+        <note>Line: 46</note>
+      </trans-unit>
+      <trans-unit id="5bc94d9825972de14552ca2495375807">
+        <source>Unable to Register</source>
+        <target>Unable to Register</target>
+        <note>Line: 47</note>
+      </trans-unit>
+      <trans-unit id="e55481a49101d7c59a2492109f36e86e">
+        <source>You are logged in</source>
+        <target>You are logged in</target>
+        <note>Line: 51</note>
+      </trans-unit>
+      <trans-unit id="8a137a0448c8ea9b78673012491f61d7">
+        <source>Registration Succeed</source>
+        <target>Registration Succeed</target>
+        <note>Line: 52</note>
+      </trans-unit>
+      <trans-unit id="01a569ddc6cf67ddec2a683f0a5f5956">
+        <source>Forgot your password?</source>
+        <target>Forgot your password?</target>
+        <note>Line: 59</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/myaccount-links.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="a82be0f551b8708bc08eb33cd9ded0cf">
+        <source>Information</source>
+        <target>Information</target>
+        <note>Line: 13</note>
+      </trans-unit>
+      <trans-unit id="da4791bc9700aca963b560fcb7db0605">
+        <source>Add first address</source>
+        <target>Add first address</target>
+        <note>Line: 24</note>
+      </trans-unit>
+      <trans-unit id="cea4dedd9147586b361b90e900944690">
+        <source>Order history and details</source>
+        <target>Order history and details</target>
+        <note>Line: 31</note>
+      </trans-unit>
+      <trans-unit id="d1a365ea7809ae5831c6d9f86886630c">
+        <source>Credit slips</source>
+        <target>Credit slips</target>
+        <note>Line: 38</note>
+      </trans-unit>
+      <trans-unit id="a82868319826fb092b73968e661b5b38">
+        <source>Vouchers</source>
+        <target>Vouchers</target>
+        <note>Line: 45</note>
+      </trans-unit>
+      <trans-unit id="e06d7593c1cd6dabef450be6c3da7091">
+        <source>Merchandise returns</source>
+        <target>Merchandise returns</target>
+        <note>Line: 52</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/myaccount.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>My Account</target>
+        <note>Line: 15</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/order-detail.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="f5d74ea75357b5e139854c14f8e24fe3">
+        <source>Order details</source>
+        <target>Order details</target>
+        <note>Line: 16</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/order-follow.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="9cf9ab35a1b24314913bb739d25a0b36">
+        <source>Here is a list of pending merchandise returns</source>
+        <target>Here is a list of pending merchandise returns</target>
+        <note>Line: 16</note>
+      </trans-unit>
+      <trans-unit id="a240fa27925a635b08dc28c9e4f9216d">
+        <source>Order</source>
+        <target>Order</target>
+        <note>Line: 21</note>
+      </trans-unit>
+      <trans-unit id="988fd738de9c6d177440c5dcf69e73ce">
+        <source>Return</source>
+        <target>Return</target>
+        <note>Line: 25</note>
+      </trans-unit>
+      <trans-unit id="d442cb92c3b031eceacbfe87605b9356">
+        <source>Package status</source>
+        <target>Package status</target>
+        <note>Line: 29</note>
+      </trans-unit>
+      <trans-unit id="446faa7da2d42ba4ffeda73cb119dd91">
+        <source>Date issued</source>
+        <target>Date issued</target>
+        <note>Line: 33</note>
+      </trans-unit>
+      <trans-unit id="6d72e074fdface4ae892543d39434175">
+        <source>Returns form</source>
+        <target>Returns form</target>
+        <note>Line: 37</note>
+      </trans-unit>
+      <trans-unit id="daf51d7d9e10e6a469434ae548d9a173">
+        <source>Print out</source>
+        <target>Print out</target>
+        <note>Line: 39</note>
+      </trans-unit>
+      <trans-unit id="8b18900ae12bf0456a7a45ac23f38b74">
+        <source>You have no merchandise return authorizations</source>
+        <target>You have no merchandise return authorizations</target>
+        <note>Line: 50</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/password-new.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="41980e9b51cf92345135030789a5be73">
+        <source>Your password has been changed successfully</source>
+        <target>Your password has been changed successfully</target>
+        <note>Line: 40</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/customer/password.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="ad80cea23926afd595af04ae78b6fd85">
+        <source>Password Recovery</source>
+        <target>Password Recovery</target>
+        <note>Line: 16</note>
+      </trans-unit>
+      <trans-unit id="11ee1b9f5bbd27878cc31169e198a5d1">
+        <source>Some error occured</source>
+        <target>Some error occured</target>
+        <note>Line: 40</note>
+      </trans-unit>
+      <trans-unit id="bf84cf8ca9b9d39a7ee3304aac1d4f81">
+        <source>We have sent a link to reset your password to your email</source>
+        <target>We have sent a link to reset your password to your email</target>
+        <note>Line: 34</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/modules/pk_favorites/account.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="a34e0796b9c15d09300f67d972379722">
+        <source>My favorite products</source>
+        <target>My favorite products</target>
+        <note>Line: 13</note>
+      </trans-unit>
+      <trans-unit id="4f9b5fa08f2ef86fdc5d0ceefc271981">
+        <source>Remove from Favorites</source>
+        <target>Remove from Favorites</target>
+        <note>Line: 26</note>
+      </trans-unit>
+      <trans-unit id="70f90aa4f9df6f5fc4c69754c6d81ff7">
+        <source>No favorite products have been determined just yet</source>
+        <target>No favorite products have been determined just yet</target>
+        <note>Line: 36</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/modules/ps_searchbar/ps_searchbar.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Line: 26</note>
+      </trans-unit>
+      <trans-unit id="53b1d20f2003661549a9689707423447">
+        <source>Search result page</source>
+        <target>Search result page</target>
+        <note>Line: 69</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/data/web/motowear.sk/web/themes/alysum/templates/mobile/modules/ps_shoppingcart/ps_shoppingcart.tpl" source-language="sk-SK" target-language="sk-SK" datatype="plaintext">
+    <body>
+      <trans-unit id="76b133716b02dfc40f097e722075ddbd">
+        <source>My Cart</source>
+        <target>My Cart</target>
+        <note>Line: 3</note>
+      </trans-unit>
+      <trans-unit id="1063e38cb53d94d386f21227fcd84717">
+        <source>Remove</source>
+        <target>Remove</target>
+        <note>Line: 40</note>
+      </trans-unit>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Cart</target>
+        <note>Line: 111</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

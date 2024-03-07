@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-test" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="a85eba4c6c699122b2bb1387ea4813ad">
+        <source>Cart</source>
+        <target>Warenkorb</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Versandkosten</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f8b0c352a8ea1aa44f80ebc0273b4fe6">
+        <source>Your Cart is empty</source>
+        <target>Ihr Warenkorb ist leer</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

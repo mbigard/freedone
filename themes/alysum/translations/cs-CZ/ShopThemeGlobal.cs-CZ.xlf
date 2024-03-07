@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="adc4f9f9cccaa450c10977d50da58d8d">
+        <source>About and Contact</source>
+        <target>O nás a kontakt</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="34c869c542dee932ef8cd96d2f91cae6">
+        <source>Our stores</source>
+        <target>Naše obchody</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5813ce0ec7196c492c97596718f71969">
+        <source>Sitemap</source>
+        <target>Mapa stránek</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cf8092a0be7b972d6cee3db90bfaf923">
+        <source>You cannot access this store from your country. We apologize for the inconvenience.</source>
+        <target>Z vaší země do tohoto obchodu nemáte přístup. Omlouváme se za nepříjemnosti.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6351030f724f6f42fd11ec9aa6ee8c76">
+        <source>403 Forbidden</source>
+        <target>403 Forbidden</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6c5c05a5b907385c60c3baa4087ea1a1">
+        <source>List of sub categories in %name%:</source>
+        <target>Seznam podkategorií v %name%:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d0f369aab921195580d8319855bbb69f">
+        <source>%label%:</source>
+        <target>%label%:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7a1c5301da6b1ce9e4345bd501397045">
+        <source>(no filter)</source>
+        <target>(žádný filtr)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2143f8cb66482342b35208bdc3fd949c">
+        <source>Active filters</source>
+        <target>Aktivní filtry</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418">
+        <source>Close</source>
+        <target>Zavřít</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="734cff984b62974d5952c10943399883">
+        <source>Per Page</source>
+        <target>Na stránku</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dc647eb65e6711e155375218212b3964">
+        <source>Password</source>
+        <target>Heslo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4558d5833ae24b0a65eb35971fa4b31d">
+        <source>Share via</source>
+        <target>Sdílet prostřednictvím</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="33d8042bd735c559cc3206f4bc99aedc">
+        <source>Sort by</source>
+        <target>Seřazeno podle</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="67a85af5606b56368616ddd14694190d">
+        <source>Our website is almost ready.</source>
+        <target>Náš web je téměř připraven.</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

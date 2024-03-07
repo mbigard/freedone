@@ -1,0 +1,12 @@
+#list-ms_message tr:not(.no-read) .message b {
+    font-weight: normal;
+}
+#list-ms_message tr:not(.no-read) .message b:last-child {
+    color: #999;
+}
+#list-ms_message .message b:last-child {
+    float: right;
+}
+.ets_mp_content_left tr.no-read td {
+    font-weight: 600;
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/pkheaderitems/views/templates/front/headeritems.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6">
+        <source>Shipping</source>
+        <target>Livraison</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bc910f8bdf70f29374f496f05be0330c">
+        <source>First Name</source>
+        <target>Prénom</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="77587239bf4c54ea493c7033e1dbf636">
+        <source>Last Name</source>
+        <target>Nom</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d16e7712df84560f7c5464e3b07770b7">
+        <source>I agree to the terms and conditions and the privacy policy</source>
+        <target>J'accepte les Conditions générales et la politique de confidentialité</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="534ed3f39af7a636f6cf7a59f74fe824">
+        <source>Recently Viewed</source>
+        <target>Vus récemment</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="55af3ca0687bef1e68de21aa69662c37">
+        <source>Compared Products</source>
+        <target>Produits à comparer</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d78986947356ddd37b43d57df289dee9">
+        <source>Favorites</source>
+        <target>Favoris</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

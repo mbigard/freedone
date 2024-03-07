@@ -1,0 +1,5 @@
+#ets_mp_manufacturer_group_form .form-group input[type="file"] {
+    margin-top: 8px;
+    overflow: hidden;
+    max-width: 100%;
+}

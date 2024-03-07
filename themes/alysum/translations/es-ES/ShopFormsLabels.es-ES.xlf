@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/templates/_partials/form-fields.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="1625e29c02062efe5dbc42c3efeeebc4">
+        <source>-- please choose --</source>
+        <target>-- Elija por favor --</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/form-fields.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="93332134fd11cffbe680dd8afaa521fc">
+        <source>-- day --</source>
+        <target>dia</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/form-fields.tpl:122</note>
+      </trans-unit>
+      <trans-unit id="9180b4d5ab8103f244c2d4fd661934e2">
+        <source>-- month --</source>
+        <target>mes</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/form-fields.tpl:123</note>
+      </trans-unit>
+      <trans-unit id="ae1cc541ba45ce670ea7e0e3a30e3205">
+        <source>-- year --</source>
+        <target>año</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/form-fields.tpl:124</note>
+      </trans-unit>
+      <trans-unit id="ebb061953c0454b2c8ee7b0ac615ebcd">
+        <source>Optional</source>
+        <target>Opcional</target>
+        <note>Context:
+File: themes/alysum/templates/_partials/form-fields.tpl:190</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/_partials/order-messages.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Producto</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/order-messages.tpl:56</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/password-email.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target>Dirección email</target>
+        <note>Context:
+File: themes/alysum/templates/customer/password-email.tpl:54</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/guest-tracking.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="3b6bf3c0c07b89dc86f415117a1f0b80">
+        <source>Set your password:</source>
+        <target>Establece tu contraseña:</target>
+        <note>Context:
+File: themes/alysum/templates/customer/guest-tracking.tpl:53</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/guest-login.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="63c193f613dd3d9d6c16da7678efda2a">
+        <source>Order Reference:</source>
+        <target>Pedir Referencia:</target>
+        <note>Context:
+File: themes/alysum/templates/customer/guest-login.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="6a1e265f92087bb6dd18194833fe946b">
+        <source>Email:</source>
+        <target>Email</target>
+        <note>Context:
+File: themes/alysum/templates/customer/guest-login.tpl:59</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/customer/password-new.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="3544848f820b9d94a3f3871a382cf138">
+        <source>New password</source>
+        <target>Nueva Contraseña</target>
+        <note>Context:
+File: themes/alysum/templates/customer/password-new.tpl:41</note>
+      </trans-unit>
+      <trans-unit id="f4d1ea475eaa85102e2b4e6d95da84bd">
+        <source>Confirmation</source>
+        <target>Confirmación</target>
+        <note>Context:
+File: themes/alysum/templates/customer/password-new.tpl:46</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin849iewvwh" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="effdb9ce6c5d44df31b89d7069c8e0fb">
+        <source>Alias</source>
+        <target>Alias</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

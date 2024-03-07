@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="4edfd10d0bb5f51e0fd2327df608b5a8">
+        <source>My alerts</source>
+        <target>Moje upozornění</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3601146c4e948c32b6424d2c0a7f0118">
+        <source>Price</source>
+        <target>Cena</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="03c2e7e41ffc181a4e84080b4710e81e">
+        <source>New</source>
+        <target>Nový</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="69d08bd5f8cf4e228930935c3f13e42f">
+        <source>In Stock</source>
+        <target>Na skladě</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Produkt</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/order-detail-no-return.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
+        <source>Quantity</source>
+        <target>Množství</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/order-detail-no-return.tpl:31</note>
+      </trans-unit>
+      <trans-unit id="6c957f72dc8cdacc75762f2cbdcdfaf2">
+        <source>Unit price</source>
+        <target>Cena jednotky</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/order-detail-no-return.tpl:32</note>
+      </trans-unit>
+      <trans-unit id="0eede552438475bdfe820c13f24c9399">
+        <source>Total price</source>
+        <target>Celková cena</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/order-detail-no-return.tpl:33</note>
+      </trans-unit>
+      <trans-unit id="63d5049791d9d79d86e9a108b0a999ca">
+        <source>Reference</source>
+        <target>Odkaz</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/order-detail-no-return.tpl:126</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/product-customization.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="5d1190edfb16f1dcaaecc56570c864be">
+        <source>Your customization:</source>
+        <target>Vaše přizpůsobení:</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-customization.tpl:41</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/product-prices.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="d502fa4950894baeaeaf3c5195bb8206">
+        <source>Save %percentage%</source>
+        <target>Uložit %percentage%</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:51</note>
+      </trans-unit>
+      <trans-unit id="5e9ce3b8961433dfa8cd441709c78176">
+        <source>Save %amount%</source>
+        <target>Uložit %amount%</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:54</note>
+      </trans-unit>
+      <trans-unit id="48fa315ec57b5fea80176d1c5f9f6bbf">
+        <source>(%unit_price%)</source>
+        <target>(%unit_price%)</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:62</note>
+      </trans-unit>
+      <trans-unit id="e532954941a2469e3b3ae35ce44885d6">
+        <source>%price% tax excl.</source>
+        <target>%price% bez daně</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:70</note>
+      </trans-unit>
+      <trans-unit id="a72a454b308052ed277f7b69ab307caa">
+        <source>Instead of %price%</source>
+        <target>Namísto %price%</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:76</note>
+      </trans-unit>
+      <trans-unit id="98508b5a9b590896cc627beb46d86b96">
+        <source>Including %amount% for ecotax</source>
+        <target>Včetně %amount% pro ekotax</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:82</note>
+      </trans-unit>
+      <trans-unit id="a134618182b99ff9151d7e0b6b92410a">
+        <source>(not impacted by the discount)</source>
+        <target>(nevztahuje se na slevu)</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-prices.tpl:84</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/product.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="faeaec9eda6bc4c8cb6e1a9156a858be">
+        <source>Availability</source>
+        <target>Dostupnost</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:99</note>
+      </trans-unit>
+      <trans-unit id="56e11b516943cb38a57c9a53219a8370">
+        <source>This pack contains</source>
+        <target>Toto balení obsahuje</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:129</note>
+      </trans-unit>
+      <trans-unit id="b5a7adde1af5c87d7fd797b6245c2a39">
+        <source>Description</source>
+        <target>Popis</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:169</note>
+      </trans-unit>
+      <trans-unit id="b8900d8adf598b6653bb8c071bc49a1d">
+        <source>Product Details</source>
+        <target>Detaily produktu</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:173</note>
+      </trans-unit>
+      <trans-unit id="7e2708aeb65763c54052f57ed1a1ec1d">
+        <source>Attachments</source>
+        <target>Přílohy</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:177</note>
+      </trans-unit>
+      <trans-unit id="3767d4f3efe17bd95a1bc7cf4194bb93">
+        <source>You might also like</source>
+        <target>Mohlo by se Vám také líbit</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/product.tpl:237</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/product-discounts.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="fc21aa6a8b0bceb8570c8c81b6b38307">
+        <source>Volume discounts</source>
+        <target>Objemové slevy</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-discounts.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="861c0c6ef832cd96c5fe152f9d610973">
+        <source>You Save</source>
+        <target>Ušetříte</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-discounts.tpl:34</note>
+      </trans-unit>
+      <trans-unit id="64c22a1426c5b8fce46c6314d73dc99e">
+        <source>Up to %discount%</source>
+        <target>Až do %discount%</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-discounts.tpl:42</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/product-details.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="1be6f9eb563f3bf85c78b4219bf09de9">
+        <source>Brand</source>
+        <target>Značka</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-details.tpl:13</note>
+      </trans-unit>
+      <trans-unit id="fcebe56087b9373f15514831184fa572">
+        <source>In stock</source>
+        <target>Na skladě</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-details.tpl:30</note>
+      </trans-unit>
+      <trans-unit id="ea254ced8be4adb6c4a2750e84087da6">
+        <source>Availability date:</source>
+        <target>Datum dostupnosti:</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-details.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="7dcd185f890fd28f69d1ed210292d77f">
+        <source>Data sheet</source>
+        <target>Katalogový list</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-details.tpl:52</note>
+      </trans-unit>
+      <trans-unit id="4594f39c6dac58760daeb19d79389576">
+        <source>Specific References</source>
+        <target>Přesné reference</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-details.tpl:67</note>
+      </trans-unit>
+      <trans-unit id="9e2941b3c81256fac10392aaca4ccfde">
+        <source>Condition</source>
+        <target>Stav</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/product-details.tpl:81</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/_partials/active_filters.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="cfff8593a3adedd98a18631f85152d23">
+        <source>%1$s: </source>
+        <target>%1$s:</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/_partials/active_filters.tpl:35</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/listing/supplier.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="4c5c40c99a89125e22218cb62335c60a">
+        <source>List of products by supplier %s</source>
+        <target>Seznam produktů podle dodavatele %s</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/listing/supplier.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/listing/manufacturer.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="241cfa06413caa8aecd12ed99744bdc7">
+        <source>List of products by brand %s</source>
+        <target>Seznam produktů podle značky %s</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/listing/manufacturer.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/brands.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="84be54bb4bd1b755a27d86388700d097">
+        <source>Brands</source>
+        <target>Značky</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/brands.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/templates/catalog/suppliers.tpl" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="1814d65a76028fdfbadab64a5a8076df">
+        <source>Suppliers</source>
+        <target>Dodavatelé</target>
+        <note>Context:
+File: themes/alysum/templates/catalog/suppliers.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin849iewvwh" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="f95ceb82c51c99dc9b9e5678b291c44b">
+        <source>All sale products</source>
+        <target>Všechny prodejní produkty</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="299d4d0efd0afd814a60bd4c0eef9279">
+        <source>List of products by brand %name%</source>
+        <target>Seznam produktů podle značky %name%</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="5bdba1fc0fba1010d61ce253c2e57da8">
+        <source>Search our catalog</source>
+        <target>Vyhledávání v našem katalogu</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="160b4798999cb85c815beeb40ac268cc">
+        <source>Last time this product was added to a cart: %date_last_cart%</source>
+        <target>Naposledy byl tento produkt přidán do košíku: %date_last_cart%</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="247f15e3dc0e7906ab9573685423899f">
+        <source>Last time this product was bought: %date_last_order%</source>
+        <target>Naposledy byl tento produkt zakoupen: %date_last_order%</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="035749e4c50392a661c0f1b220ae0516">
+        <source>1 person is currently watching this product.</source>
+        <target>V současné době se na tento produkt dívá 1 osoba.</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="8e41eae149ff3fa38cc9c4fde945f2c3">
+        <source>No brand</source>
+        <target>Žádná značka</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="e18a22d145b38e4fff582663b5b4ec1e">
+        <source>All brands</source>
+        <target>Všechny značky</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

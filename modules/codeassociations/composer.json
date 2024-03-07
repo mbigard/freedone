@@ -1,0 +1,14 @@
+{
+    "name": "mbigard/codeassociations",
+    "autoload": {
+        "psr-4": {
+            "Mbigard\\Codeassociations\\": "src/",
+            "Classes\\": "classes/"
+        }
+    },
+    "authors": [{
+        "name": "Maxime",
+        "email": "contact@maximebigard.fr"
+    }],
+    "require": {}
+}

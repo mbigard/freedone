@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="3029e678e2d59c6f5e1d450e9b6c03a7">
+        <source>In the same category</source>
+        <target>Ve stejné kategorii</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin849iewvwh" source-language="cs-CZ" target-language="cs-CZ" datatype="plaintext">
+    <body>
+      <trans-unit id="f55e0a28b86c2ab66ac632ab9ddf1833">
+        <source>%s other product in the same category:</source>
+        <target>%s další výrobky ve stejné kategorii:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="bebb44f38b03407098d48198c1d0aaa5">
+        <source>%s other products in the same category:</source>
+        <target>%s další výrobky ve stejné kategorii!</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/templates/customer/_partials/my-account-links.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Casa</target>
+        <note>Context:
+File: themes/alysum/templates/customer/_partials/my-account-links.tpl:31</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/alysum/dependencies/modules/pk_testimonials/views/templates/admin/displayadmintestimonialsForm.tpl" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="44749712dbec183e983dcd78a7736c41">
+        <source>Date</source>
+        <target>Fecha</target>
+        <note>Context:
+File: themes/alysum/dependencies/modules/pk_testimonials/views/templates/admin/displayadmintestimonialsForm.tpl:9</note>
+      </trans-unit>
+      <trans-unit id="ec53a8c4f07baed5d8825072c89799be">
+        <source>Status</source>
+        <target>Estado</target>
+        <note>Context:
+File: themes/alysum/dependencies/modules/pk_testimonials/views/templates/admin/displayadmintestimonialsForm.tpl:6</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin849iewvwh" source-language="es-ES" target-language="es-ES" datatype="plaintext">
+    <body>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="0e2fb5b02182fd28b9b96e86ed27838f">
+        <source>Fax:</source>
+        <target>Fax:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="6a1e265f92087bb6dd18194833fe946b">
+        <source>Email:</source>
+        <target>Email:</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+      <trans-unit id="da6eb684bd77243a780629a180c9d19b">
+        <source>Fax: [1]%fax%[/1]</source>
+        <target>Fax: [1]%fax%[/1]</target>
+        <note>Context:
+File: admin849iewvwh:</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

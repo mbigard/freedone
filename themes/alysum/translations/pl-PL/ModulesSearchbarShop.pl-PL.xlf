@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="13348442cc6a27032d2b4aa28b75a5d3">
+        <source>Search</source>
+        <target>Szukaj</target>
+        <note>Context:
+File: themes/alysum/modules/ps_searchbar/ps_searchbar.tpl:32</note>
+      </trans-unit>
+      <trans-unit id="b9af8635591dc44009ccd8e5389722ec">
+        <source>No products found</source>
+        <target>Nie znaleziono produktów</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="08f56cb5b9f1f1fe717a7b1cd096fe6e">
+        <source>Type at least 3 characters</source>
+        <target>Wpisz co najmniej 3 znaki</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

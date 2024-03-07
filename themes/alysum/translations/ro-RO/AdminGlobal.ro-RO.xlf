@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="adminshd" source-language="ro-RO" target-language="ro-RO" datatype="plaintext">
+    <body>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>Nu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Da</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b9f5c797ebbf55adccdd8539a65a0241">
+        <source>Disabled</source>
+        <target>Dezactivat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="00d23a76e43b46dae9ec7aa9dcbebb32">
+        <source>Enabled</source>
+        <target>Activat</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c3782cf09e0f24e3a31a2dda9d9de9b9">
+        <source>Addons Marketplace</source>
+        <target>Addons Marketplace</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

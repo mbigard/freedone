@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="835a161d154c0f5f57ae5d4e2ba7ca81">
+        <source>Stay up to date</source>
+        <target>Bądź na bieżąco</target>
+        <note>Context:
+File: themes/alysum/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl:26</note>
+      </trans-unit>
+      <trans-unit id="bc82c84acc0c68f760ecd5bac0dddc7d">
+        <source>Your e-mail address</source>
+        <target>Twój adres email</target>
+        <note>Context:
+File: themes/alysum/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

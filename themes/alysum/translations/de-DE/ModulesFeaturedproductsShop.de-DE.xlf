@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-test" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="cf8156f1f57a8603cd6b3a28c9c2c61b">
+        <source>Featured Products</source>
+        <target>Vorgestellte Produkte</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

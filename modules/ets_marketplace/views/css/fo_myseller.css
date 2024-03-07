@@ -1,0 +1,79 @@
+.mp-seller-dashboardicons:before{
+    background-image: url(../img/seller/dashboardicons.png);
+}
+.mp-seller-ordersicons:before{
+    background-image: url(../img/seller/ordersicons.png);
+}
+.mp-seller-productsicons:before{
+    background-image: url(../img/seller/products.png);
+}
+.mp-seller-stockicons:before{
+    background-image: url(../img/seller/productsicons.png);
+}
+.mp-seller-messagesicons:before{
+    background-image: url(../img/seller/messagesicons.png);
+}
+.mp-seller-ratingsicons:before{
+    background-image: url(../img/seller/rating.png);
+}
+.mp-seller-suppliersicons:before{
+    background-image: url(../img/seller/supplier.png);
+}
+.mp-seller-commissionsicons:before{
+    background-image: url(../img/seller/commissionsicons.png);
+}
+.mp-seller-billingicons:before{
+    background-image: url(../img/seller/billingicons.png);
+}
+.mp-seller-withdrawicons:before{
+    background-image: url(../img/seller/withdrawicons.png);
+}
+.mp-seller-attributesicons:before{
+    background-image: url(../img/seller/attributesicons.png);
+}
+.mp-seller-carriericons:before{
+    background-image: url(../img/seller/carriericons.png);
+}
+.mp-seller-brandsicons:before{
+    background-image: url(../img/seller/brandsicons.png);
+}
+.mp-seller-vouchericons:before{
+    background-image: url(../img/seller/vouchericons.png);
+}
+.mp-seller-profileicons:before{
+    background-image: url(../img/seller/profileicons.png);
+}
+.mp-seller-managericons:before{
+    background-image: url(../img/seller/managericons.png);
+}
+.mp-seller-discounticons:before{
+    background-image: url(../img/seller/discounticons.png);
+}
+.page-my-account .myseller-list .links a,
+.page-my-account #content .myseller-list .links a {
+    text-decoration: none !important;
+    float: left;
+    padding: 0 15px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+.myseller-list .links a span.link-item{
+    display: block;
+    height: 100%;
+    padding: 1rem;
+    background: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid #f6f6f6;
+    font-weight: 600;
+}
+.myseller-list .links a span.link-item i:before{
+    content:"";
+    height: 55px;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

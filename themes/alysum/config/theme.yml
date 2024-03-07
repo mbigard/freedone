@@ -1,0 +1,446 @@
+name: alysum
+display_name: Alysum
+version: 8.2.0
+author:
+    name: 'Promokit'
+    email: 'promokit.eu@gmail.com'
+    url: 'https://promokit.eu'
+meta:
+    compatibility:
+        from: 1.7.8.0
+        to: ~
+    available_layouts:
+        layout-full-width:
+            name: Full Width
+            description: No side columns, ideal for distraction-free pages such as product pages.
+        layout-left-column:
+            name: Two Columns, small left column
+            description: Left Column
+        layout-right-column:
+            name: Two Columns, small right column
+            description: Right Column
+assets:
+    js:
+        all:
+            - id: masonry
+              path: assets/js/libs/masonry.js
+              priority: 99
+              position: bottom
+              attributes: defer
+            - id: glide
+              path: assets/js/libs/glide.js
+              priority: 99
+              position: bottom
+              attributes: defer
+            - id: cookies
+              path: assets/js/libs/cookies.js
+              priority: 99
+              position: bottom
+              attributes: defer
+            - id: alysum
+              path: assets/js/alysum.js
+              priority: 100
+              position: bottom
+              attributes: defer
+        category:
+            - id: category-imagesLoaded
+              path: assets/js/libs/imagesLoaded.js
+              position: bottom
+              priority: 99
+              attributes: defer
+            - id: category-page
+              path: assets/js/pages/category.js
+              position: bottom
+              priority: 101
+              attributes: defer
+        module-ph_simpleblog-single:
+            - id: blog-sharer
+              path: assets/js/libs/sharer.js
+              position: bottom
+              priority: 99
+              attributes: defer
+        product:
+            - id: product-imagesLoaded
+              path: assets/js/libs/imagesLoaded.js
+              position: bottom
+              priority: 99
+              attributes: defer
+            - id: product-sharer
+              path: assets/js/libs/sharer.js
+              position: bottom
+              priority: 99
+              attributes: defer
+            - id: product-page
+              path: assets/js/pages/product.js
+              position: bottom
+              priority: 101
+              attributes: defer
+            - id: product-jzoom
+              path: assets/js/libs/jquery.zoom.min.js
+              position: bottom
+              priority: 101
+              attributes: defer
+        order:
+            - id: order-amp
+              path: assets/js/pages/order.js
+              position: bottom
+              priority: 99
+              attributes: defer
+    css:
+        category:
+            - id: category-style
+              path: assets/css/pages/category.css
+              media: all
+              priority: 200
+        product:
+            - id: product-style
+              path: assets/css/pages/product.css
+              media: all
+              priority: 200
+        stores:
+            - id: stores-style
+              path: assets/css/pages/stores.css
+              media: all
+              priority: 200
+        order:
+            - id: order-style
+              path: assets/css/pages/order.css
+              media: all
+              priority: 200
+        order-confirmation:
+            - id: order-style
+              path: assets/css/pages/order.css
+              media: all
+              priority: 200
+        cms:
+            - id: cms-style
+              path: assets/css/pages/cms.css
+              media: all
+              priority: 200
+        contact:
+            - id: contact-style
+              path: assets/css/pages/contact.css
+              media: all
+              priority: 200
+global_settings:
+    configuration:
+        PS_IMAGE_QUALITY: png
+        PS_SMARTY_FORCE_COMPILE: 1
+        PS_ALLOW_HTML_IFRAME: 1
+        PS_CSS_THEME_CACHE: 0
+        PS_CART_FOLLOWING: 1
+        PS_JS_THEME_CACHE: 0
+        PS_COOKIE_CHECKIP: 0
+        PS_SMARTY_CACHE: 0
+        PS_HTACCESS_CACHE_CONTROL: 0
+        BLOCK_CATEG_ROOT_CATEGORY: 0
+        elementor_frontend_edit: 0
+        PH_BLOG_LOAD_BXSLIDER: 0
+        PH_BLOG_LOAD_FONT_AWESOME: 0
+        PH_BLOG_LOAD_FITVIDS: 0
+        PH_BLOG_MASONRY_LAYOUT: 0
+        PH_BLOG_FB_INIT: 0
+    modules:
+        to_enable:
+            - pk_menu
+            - creativeelements
+            - pkthemesettings
+            - revsliderprestashop
+            - pkproducttabs
+            - pkcompare
+            - pkpopup
+            - pklookbook
+            - pkfacebook
+            - pkfavorites
+            - pkinstagram
+            - pksizeguide
+            - pkcaptcha
+            - pkelements
+            - pkextproduct
+            - contactform
+            - ps_categoryproducts
+            - ps_viewedproduct
+            - ph_simpleblog
+        to_disable:
+            - ps_banner
+            - ps_customtext
+            - ps_customersignin
+            - ps_featuredproducts
+            - ps_imageslider
+            - ps_sharebuttons
+            - ps_socialfollow
+            - ps_themecusto
+            - blockwishlist
+            - pkfrontpanel
+    hooks:
+        custom_hooks:
+            - name: displayHeaderBuilder
+              title: displayHeaderBuilder
+              description: Custom Hook for Header Builder
+            - name: displayHomeBuilder
+              title: displayHomeBuilder
+              description: Custom Hook for HomePage Builder
+            - name: displayFooterBuilder
+              title: displayFooterBuilder
+              description: Custom Hook for Footer Builder
+            - name: displayProductBuilder
+              title: displayProductBuilder
+              description: Custom Hook for Product Page Builder
+            - name: displayCategoryPageBuilder
+              title: displayCategoryPageBuilder
+              description: Custom Hook for Category Page Builder
+            - name: displayContactPageBuilder
+              title: displayContactPageBuilder
+              description: Custom Hook for Contact Page Builder
+            - name: displayRevSlider
+              title: displayRevSlider
+              description: Custom Hook for Revolution Slider
+            - name: displayAfterBodyOpeningTag
+              title: displayAfterBodyOpeningTag
+              description: Custom Hook for technical needs
+            - name: displayGuide
+              title: displayGuide
+              description: Custom Hook for Size Guide module
+            - name: displayMoreButtons
+              title: displayMoreButtons
+              description: Custom Hook for Product Page
+            - name: displayAmpFooter
+              title: displayAmpFooter
+              description: Custom Hook for AMP Footer
+            - name: displayAmpContent
+              title: displayAmpContent
+              description: Custom Hook for AMP HomePage
+            - name: displaySimpleBlogCategories
+              title: displaySimpleBlogCategories
+              description: Custom Hook for Simple Blog module
+            - name: displayProductButton
+              title: displayProductButton
+              description: Custom Hook for Product List page to display buttons
+            - name: displayProductButtonFixed
+              title: displayProductButtonFixed
+              description: Custom Hook with fixed position for Product List page to display buttons
+            - name: displayProductAdditionalInfo
+              title: displayProductAdditionalInfo
+              description: Custom Hook for Product comments module
+            - name: displayProductListTop
+              title: displayProductListTop
+              description: Custom Hook for Product Listing Top Bar
+            - name: displaySvgIcon
+              title: displaySvgIcon
+              description: Custom Hook to inject SVG Icons
+            - name: CETemplate
+              title: CETemplate
+              description: Custom Hook for Creative Elements Templates
+            - name: overrideLayoutTemplate
+              title: overrideLayoutTemplate
+              description: Custom Hook for Creative Elements Pages
+            - name: displayMiniature
+              title: displayMiniature
+              description: Custom Hook for Creative Elements "Product Miniature"
+            - name: displayMobileHeader
+              title: displayMobileHeader
+              description: Custom Hook for Theme Settings to display mobile header
+        modules_to_hook:
+            header:
+                - pkcaptcha
+                - ps_shoppingcart
+            displayAdminProductsExtra:
+                - pkproducttabs
+                - pksizeguide
+                - pkextproduct
+            displayBackOfficeHeader:
+                - creativeelements
+                - revsliderprestashop
+                - pkproducttabs
+                - ph_simpleblog
+                - pkamp
+                - pkthemesettings
+                - pkfacebook
+                - pkpopup
+                - pkcompare
+                - pkcaptcha
+                - pkinstagram
+                - pkelements
+                - pkfavorites
+                - pkextproduct
+            displayBackOfficeTop:
+                - pklookbook
+            displayBeforeBodyClosingTag:
+                - pkthemesettings
+                - pkpopup
+                - pkfacebook
+                - pkelements
+            displayHeader:
+                - pkcaptcha
+                - pkamp
+                - pkcompare
+                - pkfavorites
+                - pkinstagram
+                - pklookbook
+                - pk_menu
+                - pkpopup
+                - pksizeguide
+                - pkthemesettings
+                - ph_simpleblog
+                - ps_shoppingcart
+                - ps_searchbar
+                - pkfacebook
+                - productcomments
+                - revsliderprestashop
+                - creativeelements
+                - pkelements
+                - pkextproduct
+            displayMenu:
+                - pk_menu
+            displayNav:
+                - ps_customersignin
+                - ps_languageselector
+                - ps_currencyselector
+            displayTop:
+                - ps_shoppingcart
+            displayTopColumn:
+                - revsliderprestashop
+            displayFooterBefore:
+                - ph_simpleblog
+            displayFooter:
+                - ph_simpleblog
+            displayLeftColumn:
+                - ps_facetedsearch
+                - ps_categorytree
+                - revsliderprestashop
+            displayCustomerAccountForm:
+                - pkcaptcha
+            displaySearch:
+                - ps_searchbar
+            displayProductButtons:
+                - productcomments
+            displayReassurance:
+                - blockreassurance
+            displayProductExtraContent:
+                - pkproducttabs
+                - pkcompare
+                - pkfacebook
+            displayRevSlider:
+                - revsliderprestashop
+            displayProductListReviews:
+                - pkthemesettings
+                - productcomments
+            displayGuide:
+                - pksizeguide
+            displayAfterTitleTag:
+                - pkamp
+                - pkelements
+            displayAmpFooter:
+                - pkamp
+            displayFooterProduct:
+                - pkcompare
+                - pkfacebook
+                - productcomments
+                - ps_categoryproducts
+                - ps_viewedproduct
+                - creativeelements
+            displayMoreButtons:
+                - pkfavorites
+                - pkcompare
+            displayCustomerAccount:
+                - pkfavorites
+            displayMyAccountBlock:
+                - pkfavorites
+            displaySimpleBlogCategories:
+                - ph_simpleblog
+            displayProductButton:
+                - pkfavorites
+                - pkcompare
+            displayProductButtonFixed:
+                - pkfavorites
+            displayProductAdditionalInfo:
+                - productcomments
+            displayProductListTop:
+                - pkcompare
+                - pkthemesettings
+            displayMaintenance:
+                - pkthemesettings
+                - creativeelements
+            displayAmpContent:
+                - pkamp
+            displaySvgIcon:
+                - pkfavorites
+                - pkcompare
+            displayAdminProductsMainStepLeftColumnBottom:
+                - pkextproduct
+            overrideLayoutTemplate:
+                - creativeelements
+            displayHeaderBuilder:
+                - creativeelements
+            displayHomeBuilder:
+                - creativeelements
+            displayFooterBuilder:
+                - creativeelements
+            displayProductBuilder:
+                - creativeelements
+            displayCategoryPageBuilder:
+                - creativeelements
+            displayMiniature:
+                - pkelements
+            displayMobileHeader:
+                - pkthemesettings
+    image_types:
+        cart_default:
+            width: 126
+            height: 163
+            scope: [products]
+        small_default:
+            width: 80
+            height: 104
+            scope: [products, suppliers]
+        medium_default:
+            width: 500
+            height: 650
+            scope: [products, suppliers, categories]
+        home_default:
+            width: 380
+            height: 494
+            scope: [products]
+        large_default:
+            width: 1000
+            height: 1300
+            scope: [products, suppliers]
+        category_default:
+            width: 1110
+            height: 500
+            scope: [categories]
+        stores_default:
+            width: 170
+            height: 115
+            scope: [stores]
+        brand_default:
+            width: 202
+            height: 150
+            scope: [manufacturers]
+theme_settings:
+    default_layout: layout-full-width
+    layouts:
+        contact: layout-left-column
+        category: layout-left-column
+        best-sales: layout-left-column
+        prices-drop: layout-left-column
+        new-products: layout-left-column
+dependencies:
+    modules:
+        - pk_menu
+        - creativeelements
+        - pkthemesettings
+        - pkamp
+        - revsliderprestashop
+        - pklookbook
+        - pkcompare
+        - pkfacebook
+        - pkfavorites
+        - pkinstagram
+        - pkpopup
+        - pkproducttabs
+        - pksizeguide
+        - pkcaptcha
+        - pkelements
+        - pkextproduct
+        - ph_simpleblog

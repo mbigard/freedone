@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/ps_shoppingcart/ps_shoppingcart.tpl" source-language="pl-PL" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="4b78ac8eb158840e9638a3aeb26c4a9d">
+        <source>Tax</source>
+        <target>Podatek</target>
+        <note>Context:
+File: themes/alysum/modules/ps_shoppingcart/ps_shoppingcart.tpl:29</note>
+      </trans-unit>
+      <trans-unit id="6b3f728ca2021a16bc30f6021c4eab50">
+        <source>Cart Total</source>
+        <target>Koszyk Razem</target>
+        <note>Context:
+File: themes/alysum/modules/ps_shoppingcart/ps_shoppingcart.tpl:30</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

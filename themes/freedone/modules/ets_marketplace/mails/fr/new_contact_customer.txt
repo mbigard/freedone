@@ -1,0 +1,2 @@
+Hi {customer_name},
+Votre #{title} message a correctement été evoyé à #{shop_name}

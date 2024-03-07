@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="themes/alysum/modules/contactform/views/templates/widget/contactform.tpl" source-language="uk-UA" target-language="uk-UA" datatype="plaintext">
+    <body>
+      <trans-unit id="d85236bf435afbc0060dec82b9ef80b3">
+        <source>Customer service - Contact us</source>
+        <target>Клієнтський сервіс</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:27</note>
+      </trans-unit>
+      <trans-unit id="cc5fd9b9f1cad59fcff97a1f21f34304">
+        <source>Send a message</source>
+        <target>Вислати повідомлення</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:38</note>
+      </trans-unit>
+      <trans-unit id="6c27c08f40e1b0d9901deb9ff5f722f7">
+        <source>Subject Heading</source>
+        <target>Заголовок</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:55</note>
+      </trans-unit>
+      <trans-unit id="863cf84b34def228394c03c156bff42c">
+        <source>Select reference</source>
+        <target>Виберіть товар</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:65</note>
+      </trans-unit>
+      <trans-unit id="13d6078da2e6592822ede083931d6826">
+        <source>Attach File</source>
+        <target>Прикріпити файл</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:75</note>
+      </trans-unit>
+      <trans-unit id="b357b524e740bc85b9790a0712d84a30">
+        <source>Email address</source>
+        <target>Email адреса</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:81</note>
+      </trans-unit>
+      <trans-unit id="4c2a8fe7eaf24721cc7a9f0175115bd4">
+        <source>Message</source>
+        <target>Повідомлення</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:88</note>
+      </trans-unit>
+      <trans-unit id="1432f32780bbd9cde496343b060fd75d">
+        <source>Send Message</source>
+        <target>Вислати повідомлення</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:97</note>
+      </trans-unit>
+      <trans-unit id="7c10f7585dd525c5fab29a65b0f313c4">
+        <source>Our Location</source>
+        <target>Наша локація</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:107</note>
+      </trans-unit>
+      <trans-unit id="5dd532f0a63d89c5af0243b74732f63c">
+        <source>Contact details</source>
+        <target>Контакти</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:114</note>
+      </trans-unit>
+      <trans-unit id="ce8ae9da5b7cd6c3df2929543a9af92d">
+        <source>Email</source>
+        <target>Email</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:116</note>
+      </trans-unit>
+      <trans-unit id="9cfc9b74983d504ec71db33967591249">
+        <source>Contact Us</source>
+        <target>Напишіть нам</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:122</note>
+      </trans-unit>
+      <trans-unit id="bcc254b55c4a1babdf1dcb82c207506b">
+        <source>Phone</source>
+        <target>Телефон</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:124</note>
+      </trans-unit>
+      <trans-unit id="9810aa2b9f44401be4bf73188ef2b67d">
+        <source>Fax</source>
+        <target>Факс</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:125</note>
+      </trans-unit>
+      <trans-unit id="0576a72837405ddccc10d3ad0eb9d773">
+        <source>24/h customer service</source>
+        <target>Сервіс 24/7</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:130</note>
+      </trans-unit>
+      <trans-unit id="06547581759c3a7c16ffd5076bfe307f">
+        <source>We providing really fast and professional support</source>
+        <target>Ми надаємо дійсно швидку та професійну підтримку</target>
+        <note>Context:
+File: themes/alysum/modules/contactform/views/templates/widget/contactform.tpl:132</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

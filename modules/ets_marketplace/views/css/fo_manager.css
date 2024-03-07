@@ -1,0 +1,17 @@
+#ets_mp_manager_shop_form span.customer_name {
+    font-size: 13px;
+    color: #666;
+    margin-top: 4px;
+    display: block;
+}
+#ets_mp_manager_shop_form .panel-footer {
+    justify-content: left;
+    -webkit-justify-content: flex-start;
+}
+.ets_mp_shop_manager_popup #ets_mp_manager_shop_form .panel-footer {
+    justify-content: space-between;
+    -webkit-justify-content: space-between;
+}
+#ets_mp_manager_shop_form .checkbox_all.checkbox {
+    margin-top: 12px;
+}

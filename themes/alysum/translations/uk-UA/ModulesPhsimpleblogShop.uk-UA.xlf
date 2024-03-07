@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="uk-UA" target-language="uk-UA" datatype="plaintext">
+    <body>
+      <trans-unit id="186c30cab59f6b64a453778330d4bbf0">
+        <source>New comment</source>
+        <target>Новий комментар</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="221e705c06e231636fdbccfdd14f4d5c">
+        <source>Your name</source>
+        <target>Ім'я</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef6703d6c606526cece4a9eda9d49045">
+        <source>Your comment</source>
+        <target>Коментар</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b23ba156154d37947f632aca8fb4f032">
+        <source>Add new comment</source>
+        <target>Додати новий коментар</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="83f072670ce7d8a17801e5dfbba79f4b">
+        <source>Only registered and logged customers can add comments</source>
+        <target>Тільки зареєстровані користувачі можеть залишити коментар</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2b888c068d703c360131f51314556c39">
+        <source>No comments at this moment</source>
+        <target>Немає коментарів</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a5d491060952aa8ad5fdee071be752de">
+        <source>comments</source>
+        <target>коментарі</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="24ad95557100e42e28ea73335e4e8ad1">
+        <source>Posted by</source>
+        <target>Автор</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ed2b5c0139cec8ad2873829dc1117d50">
+        <source>on</source>
+        <target>o</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="061fcdd72d275db7234f4d3a03e3f23c">
+        <source>There are no posts</source>
+        <target>Немає записів</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46">
+        <source>Read more</source>
+        <target>Читати далі</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0746618781a2a85b5edf43bd3817064b">
+        <source>Permalink to</source>
+        <target>Посилання на</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

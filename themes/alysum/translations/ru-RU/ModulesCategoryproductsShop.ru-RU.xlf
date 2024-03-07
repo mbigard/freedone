@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="3029e678e2d59c6f5e1d450e9b6c03a7">
+        <source>In the same category</source>
+        <target>Из этой же категории</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
