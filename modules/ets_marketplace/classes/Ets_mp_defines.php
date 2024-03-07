@@ -1511,6 +1511,18 @@ class Ets_mp_defines
             $ETS_MP_SELLER_CATEGORIES = explode(',',Configuration::get('ETS_MP_SELLER_CATEGORIES'));
             if(!Ets_marketplace::validateArray($ETS_MP_SELLER_CATEGORIES))
                 $ETS_MP_SELLER_CATEGORIES = array();
+
+            /* Free Carrier */
+            $dbCarriers = Carrier::getCarriers(Context::getContext()->language->id);
+            $carriersOption = [['id' => 0, 'name' => '']];
+            foreach ($dbCarriers as $dbCarrier) {
+                $carriersOption[] = [
+                    'id' => $dbCarrier['id_carrier'],
+                    'name' => $dbCarrier['name']
+                ];
+            }
+            /* Free Carrier */
+
             self::$general_settings = array(
                 array(
                     'type' =>'switch',
@@ -3257,6 +3269,19 @@ Reason: [shop_declined_reason]'),
                     ),
                     'tab'=>'home_page product_page',
                     'desc' => $this->l('If your current theme already has the Slick library, you can disable the Slick library of Marketplace Builder module to avoid calling this library multiple times, therefore making page loading time increase. If your current theme does not have a Slick library, activating this option will cause an error.')
+                ),
+                array(
+                    'name' => 'ETS_MP_FREE_CARRIER_ID',
+                    'type' => 'select',
+                    'options' => array(
+                        'query' => $carriersOption,
+                        'id' => 'id',
+                        'name' => 'name'
+                    ),
+                    'label' => $this->l('Free carrier'),
+                    'tab' => 'conditions',
+                    'default' => '',
+                    'desc' => $this->l('Set the default free carrier for your merchant. Set the blank one to disable'),
                 ),
             );
         }

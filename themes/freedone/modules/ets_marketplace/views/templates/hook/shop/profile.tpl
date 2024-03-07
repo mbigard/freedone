@@ -160,7 +160,7 @@
                                                             {if isset($valueFieldPost)}
                                                                 {assign var='value_text' value=$valueFieldPost['shop_address'][$language.id_lang]}
                                                             {/if}
-                                                            <input{if $language.id_lang==$id_lang_default} id="search_shop_address"{/if} type="text" class="form-control" name="shop_address_{$language.id_lang|intval}" value="{if isset($value_text)}{$value_text|escape:'html':'UTF-8'}{/if}" />
+                                                            <input{if $language.id_lang==$id_lang_default} id="search_shop_address"{/if} type="text" class="form-control" name="shop_address_{$language.id_lang|intval}" value="{if isset($value_text)}{$value_text|escape:'html':'UTF-8'}{/if}" /> 
                                                         </div>
                                                         <div class="col-lg-2">
                                                             <div class="toggle_form">
@@ -186,7 +186,13 @@
                                             {/if}
                                             <input id="search_shop_address" type="text" class="form-control shop_address" name="shop_address_{$id_lang_default|intval}" value="{if isset($value_text)}{$value_text|escape:'html':'UTF-8'}{/if}" />
                                         {/if}
-
+                                        
+                                    </div>
+                                </div>
+                                <div class="form-group row">
+                                    <label class="col-md-3 form-control-label required"> {l s='Free Shipping' mod='ets_marketplace'} </label>
+                                    <div class="col-md-9">
+                                    <input type="checkbox" name="free_shipping" {if $valueFieldPost['free_shipping'] == 1 || $free_shipping } checked="checked" {/if} />
                                     </div>
                                 </div>
                                 {if isset($ETS_MP_ENABLE_MAP) && $ETS_MP_ENABLE_MAP}
@@ -287,11 +293,11 @@
                                                    {l s='Choose a file' mod='ets_marketplace'}
                                                 </label>
                                             </div>
-                                            <div class="desc">{l s='Taille préconisée :1920x300px. Mais la hauteur est libre (toutefois, merci de ne pas dépasser 500px de haut). Formats acceptés:jpg uniquement en 72dpi. Votre image doit être en RVB.' mod='ets_marketplace'}. {l s='Limit:' mod='ets_marketplace'}&nbsp;{Configuration::get('PS_ATTACHMENT_MAXIMUM_SIZE')|escape:'html':'UTF-8'}Mb</div>
+                                            <div class="desc">{l s='Recommended size: 1170x170 px. Accepted formats: jpg, png, gif' mod='ets_marketplace'}. {l s='Limit:' mod='ets_marketplace'}&nbsp;{Configuration::get('PS_ATTACHMENT_MAXIMUM_SIZE')|escape:'html':'UTF-8'}Mb</div>
                                         {/if}
                                     </div>
                                 </div>
-                                <div class="form-group row hide">
+                                <div class="form-group row">
                                     <label class="col-md-3 form-control-label"> {l s='Banner URL' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
                                         {if $languages && count($languages)>1}
@@ -330,25 +336,25 @@
                                         {/if}
                                     </div>
                                 </div>
-                                <div class="form-group row hide">
+                                <div class="form-group row">
                                     <label class="col-md-3 form-control-label"> {l s='Facebook link' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
                                         <input class="form-control" name="link_facebook" value="{if isset($smarty.post.link_facebook)}{$smarty.post.link_facebook|escape:'html':'UTF-8'}{else}{if $seller}{$seller->link_facebook|escape:'html':'UTF-8'}{/if}{/if}"  type="text" />
                                     </div>
                                 </div>
-                                <div class="form-group row hide">
+                                <div class="form-group row">
                                     <label class="col-md-3 form-control-label"> {l s='Instagram link' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
                                         <input class="form-control" name="link_instagram" value="{if isset($smarty.post.link_instagram)}{$smarty.post.link_instagram|escape:'html':'UTF-8'}{else}{if $seller}{$seller->link_instagram|escape:'html':'UTF-8'}{/if}{/if}"  type="text" />
                                     </div>
                                 </div>
-                                <div class="form-group row hide">
+                                <div class="form-group row">
                                     <label class="col-md-3 form-control-label"> {l s='Google link' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
                                         <input class="form-control" name="link_google" value="{if isset($smarty.post.link_google)}{$smarty.post.link_google|escape:'html':'UTF-8'}{else}{if $seller}{$seller->link_google|escape:'html':'UTF-8'}{/if}{/if}"  type="text" />
                                     </div>
                                 </div>
-                                <div class="form-group row hide">
+                                <div class="form-group row">
                                     <label class="col-md-3 form-control-label"> {l s='Twitter link' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
                                         <input class="form-control" name="link_twitter" value="{if isset($smarty.post.link_twitter)}{$smarty.post.link_twitter|escape:'html':'UTF-8'}{else}{if $seller}{$seller->link_twitter|escape:'html':'UTF-8'}{/if}{/if}"  type="text" />
@@ -379,8 +385,8 @@
                                 <div class="clearfix"></div>
                             </div>
                         </div>
-                    </section>
-               </form>
+                    </section> 
+               </form> 
             </section>
         </div>
     </div>

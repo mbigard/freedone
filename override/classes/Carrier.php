@@ -17,14 +17,10 @@
  * @copyright  ETS Software Technology Co., Ltd
  * @license    Valid for 1 website (or project) for each purchase of license
  */
- 
+
+if (!defined('_PS_VERSION_')) { exit; }
 class Carrier extends CarrierCore
 {
-    /*
-    * module: ets_marketplace
-    * date: 2023-10-30 18:29:34
-    * version: 3.6.4
-    */
     public static function getAvailableCarrierList(Product $product, $id_warehouse, $id_address_delivery = null, $id_shop = null, $cart = null, &$error = array())
     {
         if(($address_type =  Tools::getValue('address_type')) && $address_type=='shipping_address')
@@ -32,21 +28,27 @@ class Carrier extends CarrierCore
         if(!Module::isEnabled('ets_marketplace') || $product->getType()== Product::PTYPE_VIRTUAL)
             return parent::getAvailableCarrierList($product, $id_warehouse, $id_address_delivery, $id_shop, $cart, $error);
         static $ps_country_default = null;
+
         if ($ps_country_default === null) {
             $ps_country_default = Configuration::get('PS_COUNTRY_DEFAULT');
         }
+
         if (null === $id_shop) {
             $id_shop = Context::getContext()->shop->id;
         }
         if (null === $cart) {
             $cart = Context::getContext()->cart;
         }
+
         if (null === $error || !is_array($error)) {
             $error = array();
         }
+
         $id_address = (int) ((null !== $id_address_delivery && $id_address_delivery != 0) ? $id_address_delivery : $cart->id_address_delivery);
         if ($id_address) {
             $id_zone = Address::getZoneById($id_address);
+
+            // Check the country of the address is activated
             if (!Address::isCountryActiveById($id_address)) {
                 return array();
             }
@@ -57,6 +59,8 @@ class Carrier extends CarrierCore
                 $id_zone = $country->id_zone;
             }
         }
+
+        // Does the product is linked with carriers?
         $cache_id = 'Carrier::getAvailableCarrierList_' . (int) $product->id . '-' . (int) $id_shop;
         if (!Cache::isStored($cache_id)) {
             $query = new DbQuery();
@@ -69,16 +73,32 @@ class Carrier extends CarrierCore
             );
             $query->where('pc.id_product = ' . (int) $product->id);
             $query->where('pc.id_shop = ' . (int) $id_shop);
+
             $carriers_for_product = Db::getInstance(_PS_USE_SQL_SLAVE_)->executeS($query);
             Cache::store($cache_id, $carriers_for_product);
         } else {
             $carriers_for_product = Cache::retrieve($cache_id);
         }
+        // by ets_marketplace
         $sql = 'SELECT id_carrier FROM `'._DB_PREFIX_.'carrier` c
         LEFT JOIN `'._DB_PREFIX_.'ets_mp_carrier_seller` cs ON (cs.id_carrier_reference=c.id_reference)
         WHERE c.deleted=0 AND c.active=1';
         if($id_customer = (int)Db::getInstance()->getValue('SELECT id_customer FROM `'._DB_PREFIX_.'ets_mp_seller_product` WHERE id_product="'.(int)$product->id.'"'))
         {
+            $seller = Ets_mp_seller::_getSellerByIdCustomer($id_customer);
+            if (
+                ($freeCarrierId = Configuration::get('ETS_MP_FREE_CARRIER_ID')) != 0
+                && Validate::isLoadedObject($seller)
+                && $seller->free_shipping
+                && ($freeCarrier = new Carrier($freeCarrierId))
+                && Validate::isLoadedObject($freeCarrier)
+                && $freeCarrier->active
+                && !$freeCarrier->deleted
+            ) { 
+                $carrier_list[$freeCarrierId] = $freeCarrierId;
+                return $carrier_list; // Config free_carrier
+            }
+            
             if(!Configuration::get('ETS_MP_SELLER_CREATE_SHIPPING') && !Configuration::get('ETS_MP_SELLER_USER_GLOBAL_SHIPPING'))
                 return array();
             if(!Configuration::get('ETS_MP_SELLER_CREATE_SHIPPING'))
@@ -152,8 +172,10 @@ class Carrier extends CarrierCore
         }  
         else
             $carriers_for_product = $carriers_for_seller;
+        // end by ets_marketplace
         $carrier_list = array();
         if (!empty($carriers_for_product)) {
+            //the product is linked with carriers
             foreach ($carriers_for_product as $carrier) { //check if the linked carriers are available in current zone
                 if (Carrier::checkCarrierZone($carrier['id_carrier'], $id_zone)) {
                     $carrier_list[$carrier['id_carrier']] = $carrier['id_carrier'];
@@ -163,10 +185,14 @@ class Carrier extends CarrierCore
                 return array();
             }//no linked carrier are available for this zone
         }
+
+        // The product is not directly linked with a carrier
+        // Get all the carriers linked to a warehouse
         if ($id_warehouse) {
             $warehouse = new Warehouse($id_warehouse);
             $warehouse_carrier_list = $warehouse->getCarriers();
         }
+
         $available_carrier_list = array();
         $cache_id = 'Carrier::getAvailableCarrierList_getCarriersForOrder_' . (int) $id_zone . '-' . (int) $cart->id;
         if (!Cache::isStored($cache_id)) {
@@ -177,20 +203,26 @@ class Carrier extends CarrierCore
         } else {
             list($carriers, $carrier_error) = Cache::retrieve($cache_id);
         }
+
         $error = array_merge($error, $carrier_error);
+
         foreach ($carriers as $carrier) {
             $available_carrier_list[$carrier['id_carrier']] = $carrier['id_carrier'];
         }
+
         if ($carrier_list) {
             $carrier_list = array_intersect($available_carrier_list, $carrier_list);
         } else {
             $carrier_list = $available_carrier_list;
         }
+
         if (isset($warehouse_carrier_list)) {
             $carrier_list = array_intersect($carrier_list, $warehouse_carrier_list);
         }
+
         $cart_quantity = 0;
         $cart_weight = 0;
+
         foreach ($cart->getProducts(false, false) as $cart_product) {
             if ($cart_product['id_product'] == $product->id) {
                 $cart_quantity += $cart_product['cart_quantity'];
@@ -201,32 +233,33 @@ class Carrier extends CarrierCore
                 $cart_weight += ($cart_product['weight'] * $cart_product['cart_quantity']);
             }
         }
+
         if ($product->width > 0 || $product->height > 0 || $product->depth > 0 || $product->weight > 0 || $cart_weight > 0) {
             foreach ($carrier_list as $key => $id_carrier) {
                 $carrier = new Carrier($id_carrier);
+
+                // Get the sizes of the carrier and the product and sort them to check if the carrier can take the product.
                 $carrier_sizes = array((int) $carrier->max_width, (int) $carrier->max_height, (int) $carrier->max_depth);
                 $product_sizes = array((int) $product->width, (int) $product->height, (int) $product->depth);
                 rsort($carrier_sizes, SORT_NUMERIC);
                 rsort($product_sizes, SORT_NUMERIC);
+
                 if (($carrier_sizes[0] > 0 && $carrier_sizes[0] < $product_sizes[0])
                     || ($carrier_sizes[1] > 0 && $carrier_sizes[1] < $product_sizes[1])
                     || ($carrier_sizes[2] > 0 && $carrier_sizes[2] < $product_sizes[2])) {
                     $error[$carrier->id] = Carrier::SHIPPING_SIZE_EXCEPTION;
                     unset($carrier_list[$key]);
                 }
+
                 if ($carrier->max_weight > 0 && ($carrier->max_weight < $product->weight * $cart_quantity || $carrier->max_weight < $cart_weight)) {
                     $error[$carrier->id] = Carrier::SHIPPING_WEIGHT_EXCEPTION;
                     unset($carrier_list[$key]);
                 }
             }
         }
+
         return $carrier_list;
     }
-    /*
-    * module: ets_marketplace
-    * date: 2023-10-30 18:29:34
-    * version: 3.6.4
-    */
     public static function getProductsBySellerInCart($products,$id_product)
     {
         $array = array();

@@ -65,6 +65,7 @@ class Ets_MarketPlaceProfileModuleFrontController extends ModuleFrontController
             $valueFieldPost['shop_address'][$language['id_lang']] = Tools::getValue('shop_address_'.$language['id_lang'],isset($this->seller->shop_address[$language['id_lang']])?$this->seller->shop_address[$language['id_lang']]:'');
             $valueFieldPost['vacation_notifications'][$language['id_lang']] = Tools::getValue('vacation_notifications_'.$language['id_lang'],isset($this->seller->vacation_notifications[$language['id_lang']])?$this->seller->vacation_notifications[$language['id_lang']]:'');
             $valueFieldPost['banner_url'][$language['id_lang']] = Tools::getValue('banner_url_'.$language['id_lang'],isset($this->seller->banner_url[$language['id_lang']]) ? $this->seller->banner_url[$language['id_lang']]:''); 
+            $valueFieldPost['free_shipping'] = (Tools::getValue('free_shipping') == 'on' ? 1 : 0);
         }
         if(Tools::isSubmit('submitSaveSeller'))
         {
@@ -122,6 +123,7 @@ class Ets_MarketPlaceProfileModuleFrontController extends ModuleFrontController
                 'id_lang_default' => Configuration::get('PS_LANG_DEFAULT'),
                 'ETS_MP_VACATION_MODE_FOR_SELLER' => Configuration::get('ETS_MP_VACATION_MODE_FOR_SELLER'),
                 'shop_categories' => Ets_mp_shop_category::getShopCategories(' AND c.active=1',0,false),
+                'free_shipping' => $this->seller->free_shipping
             )
         );
         return $this->module->displayTpl('shop/profile.tpl');

@@ -110,7 +110,7 @@ class Ets_marketplace extends PaymentModule
 
         $this->name = 'ets_marketplace';
 		$this->tab = 'market_place';
-		$this->version = '3.6.7';
+		$this->version = '3.6.7.1';
 		$this->author = 'PrestaHero';
 		$this->need_instance = 0;
 		$this->bootstrap = true;
@@ -2066,14 +2066,14 @@ class Ets_marketplace extends PaymentModule
                         if(Configuration::get('ETS_MP_COMMISSION_EXCLUDE_TAX'))
                         {
                             $commission->commission = (float)Tools::ps_round(Tools::convertPrice($total_price_tax_excl,null,false) * $commistion_rate/100,6);
-                            // Modification @mbigard on retire le montant à l'association de la commission / le nombre de produit
+// Modification @mbigard on retire le montant à l'association de la commission / le nombre de produit
                             $commission->commission -= ($order->total_products_wt * (float)$this->getPercentageAssoByIdOrder($order->id) / 100) / count($products);
                             $commission->use_tax=0;
                         }
                         else
                         {
                             $commission->commission = (float)Tools::ps_round(Tools::convertPrice($total_price_tax_incl,null,false) * $commistion_rate/100,6);
-                            // Modification @mbigard on retire le montant à l'association de la commission
+// Modification @mbigard on retire le montant à l'association de la commission
                             $commission->commission -= $order->total_products_wt * (float)$this->getPercentageAssoByIdOrder($order->id) / 100;
                             $commission->use_tax=1;
                         }
@@ -2130,7 +2130,7 @@ class Ets_marketplace extends PaymentModule
                 $commission->commission = (float)Tools::ps_round(Tools::convertPrice($order->total_shipping_tax_incl,null,false),6);
                     $commission->use_tax=1;
 
-                    if(Configuration::get('ETS_MP_COMMISSION_PENDING_WHEN') && ($status_pedding = explode(',',Configuration::get('ETS_MP_COMMISSION_PENDING_WHEN'))) && in_array($params['orderStatus']->id,$status_pedding))
+                if(Configuration::get('ETS_MP_COMMISSION_PENDING_WHEN') && ($status_pedding = explode(',',Configuration::get('ETS_MP_COMMISSION_PENDING_WHEN'))) && in_array($params['orderStatus']->id,$status_pedding))
                 {
                     $commission->status=-1;
                 }
@@ -4865,6 +4865,7 @@ class Ets_marketplace extends PaymentModule
             'latitude' => $this->l('Latitude'),
             'longitude' => $this->l('Longitude'),
             'id_shop_category' => $this->l('Shop category'),
+            'free_shipping' => $this->l('Free Shipping')
         );
         $shop_name_default = Tools::getValue('shop_name_' . $id_lang_default);
         if (!$shop_name_default)
@@ -4940,6 +4941,7 @@ class Ets_marketplace extends PaymentModule
         }
         foreach ($seller_fields as $key => $seller_field) {
             $value = Tools::getValue($key);
+
             if (in_array($key, array('shop_name', 'shop_description', 'shop_address', 'banner_url'))) {
                 foreach ($languages as $language) {
                     if (($value = Tools::getValue($key . '_' . $language['id_lang'])) && ($key == 'banner_url' ? !Ets_marketplace::isLink($value) : !Validate::isCleanHtml($value)))
@@ -4959,9 +4961,22 @@ class Ets_marketplace extends PaymentModule
                     $errors[] = sprintf($this->l('%s is not valid'), $seller_field);
                 elseif ($key == 'vat_number' && $value && !Validate::isGenericName($value))
                     $errors[] = $this->l('VAT number is not valid');
+                elseif ($key == 'free_shipping') {
+                    if ($value) {
+                        if ($value != 'on') {
+                            $errors[] = $this->l('Free shipping is not valid');
+                        } else {
+                            $value = 1;
+                        }
+                    } else {
+                        $value = 0;
+                    }
+                }
+
                 $valueFieldPost[$key] = $value;
             }
         }
+
         if (!$errors) {
             if ($id_seller) {
                 $seller = new Ets_mp_seller($id_seller);
@@ -4994,7 +5009,6 @@ class Ets_marketplace extends PaymentModule
             }
             $seller->date_upd = date('Y-m-d H:i:s');
             foreach (array_keys($seller_fields) as $field) {
-
                 if (in_array($field, array('shop_name', 'shop_description', 'shop_address', 'banner_url'))) {
                     $field_value_default = Tools::getValue($field . '_' . $id_lang_default);
                     foreach ($languages as $language) {
@@ -5003,7 +5017,8 @@ class Ets_marketplace extends PaymentModule
                     }
                 } else {
                     $field_value = Tools::getValue($field);
-                    if ($field != 'shop_logo' && $field != 'shop_banner') {
+
+                    if ($field != 'shop_logo' && $field != 'shop_banner' && $field != 'free_shipping') {
                         if (Tools::isSubmit($field))
                             $seller->{$field} = $field_value;
                     } else {
@@ -5034,10 +5049,13 @@ class Ets_marketplace extends PaymentModule
                                     $seller->shop_banner[$language['id_lang']] = $seller->shop_banner[$id_lang_default];
                             }
                         }
-
+                        if ($field == 'free_shipping') {
+                            $seller->free_shipping = $valueFieldPost[$field];
+                        }
                     }
                 }
             }
+
             if ($admin) {
                 $seller->date_from = $date_from;
                 $seller->date_to = $date_to;
@@ -5180,8 +5198,8 @@ class Ets_marketplace extends PaymentModule
                                 '{shop_phone}' => $seller->shop_phone,
                             );
                             $subjects = array(
-                                'translation' => $this->l('Nouvelle boutique crée'),
-                                'origin' => 'Nouvelle boutique crée',
+                                'translation' => $this->l('New shop has been created'),
+                                'origin' => 'New shop has been created',
                                 'specific' => 'create'
                             );
                             Ets_marketplace::sendMail('to_admin_shop_created', $data, '', $subjects);
@@ -6297,6 +6315,7 @@ class Ets_marketplace extends PaymentModule
 
         }
     }
+
     //@added by mbigard
     public function getPercentageAssoByIdOrder($idOrder) {
         $id_code_association = Db::getInstance()->executeS('SELECT `code_association_percentage` FROM '._DB_PREFIX_.'cart c LEFT JOIN '._DB_PREFIX_.'orders o ON o.id_cart = c.id_cart WHERE id_order = '.pSQL($idOrder));

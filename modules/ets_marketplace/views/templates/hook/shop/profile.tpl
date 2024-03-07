@@ -189,6 +189,12 @@
                                         
                                     </div>
                                 </div>
+                                <div class="form-group row">
+                                    <label class="col-md-3 form-control-label required"> {l s='Free Shipping' mod='ets_marketplace'} </label>
+                                    <div class="col-md-9">
+                                    <input type="checkbox" name="free_shipping" {if $valueFieldPost['free_shipping'] == 1 || $free_shipping } checked="checked" {/if} />
+                                    </div>
+                                </div>
                                 {if isset($ETS_MP_ENABLE_MAP) && $ETS_MP_ENABLE_MAP}
                                     <div class="form-group row">
                                         <label class="col-md-3 form-control-label"> {l s='Latitude' mod='ets_marketplace'} </label>

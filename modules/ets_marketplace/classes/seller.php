@@ -72,6 +72,8 @@ class Ets_mp_seller extends ObjectModel
     public $firstname;
     public $lastname;
     public $id_language;
+    public $free_shipping;
+    
     public static $definition = array(
         'table' => 'ets_mp_seller',
         'primary' => 'id_seller',
@@ -122,6 +124,7 @@ class Ets_mp_seller extends ObjectModel
             'shop_description' => array('type' => self::TYPE_STRING, 'validate' => 'isCleanHtml', 'lang' => true),
             'shop_address' => array('type' => self::TYPE_STRING, 'validate' => 'isCleanHtml', 'lang' => true),
             'vacation_notifications' => array('type' => self::TYPE_STRING, 'lang' => true),
+            'free_shipping' => array('type' => self::TYPE_INT)
         )
     );
 
@@ -1733,12 +1736,11 @@ class Ets_mp_seller extends ObjectModel
                 // modification par @mbigard pour mettre total_products_wt a la place de total_paid car pas de transport dans le CA
                 // modification par @mbigard pour retirer le inner join sur order_detail qui dupplique les lignes et donne mauvais calcul
                 $sql = 'SELECT SUM(o.total_products_wt/c.conversion_rate) FROM `'._DB_PREFIX_.'orders` o
-                INNER JOIN `'._DB_PREFIX_.'currency` c ON (o.id_currency=c.id_currency)
+                                INNER JOIN `'._DB_PREFIX_.'currency` c ON (o.id_currency=c.id_currency)
                 INNER JOIN `'._DB_PREFIX_.'ets_mp_seller_order` seller_order ON (seller_order.id_order=o.id_order AND seller_order.id_customer="'.(int)$this->id_customer.'")
                 WHERE o.id_shop="'.(int)Context::getContext()->shop->id.'" AND o.current_state IN ('.implode(',',array_map('intval',$status)).')'.($filter ? (string)$filter:'');
-                //var_dump($sql, Db::getInstance()->getValue($sql));die;
             }
-            
+
             $turn_over = Db::getInstance()->getValue($sql);
             return Tools::convertPrice($turn_over);
         }

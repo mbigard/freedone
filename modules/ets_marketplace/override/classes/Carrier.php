@@ -85,6 +85,20 @@ class Carrier extends CarrierCore
         WHERE c.deleted=0 AND c.active=1';
         if($id_customer = (int)Db::getInstance()->getValue('SELECT id_customer FROM `'._DB_PREFIX_.'ets_mp_seller_product` WHERE id_product="'.(int)$product->id.'"'))
         {
+            $seller = Ets_mp_seller::_getSellerByIdCustomer($id_customer);
+            if (
+                ($freeCarrierId = Configuration::get('ETS_MP_FREE_CARRIER_ID')) != 0
+                && Validate::isLoadedObject($seller)
+                && $seller->free_shipping
+                && ($freeCarrier = new Carrier($freeCarrierId))
+                && Validate::isLoadedObject($freeCarrier)
+                && $freeCarrier->active
+                && !$freeCarrier->deleted
+            ) { 
+                $carrier_list[$freeCarrierId] = $freeCarrierId;
+                return $carrier_list; // Config free_carrier
+            }
+            
             if(!Configuration::get('ETS_MP_SELLER_CREATE_SHIPPING') && !Configuration::get('ETS_MP_SELLER_USER_GLOBAL_SHIPPING'))
                 return array();
             if(!Configuration::get('ETS_MP_SELLER_CREATE_SHIPPING'))
