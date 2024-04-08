@@ -192,7 +192,8 @@
                                 <div class="form-group row">
                                     <label class="col-md-3 form-control-label required"> {l s='Free Shipping' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
-                                    <input type="checkbox" name="free_shipping" {if $valueFieldPost['free_shipping'] == 1 || $free_shipping } checked="checked" {/if} />
+                                        <input type="checkbox" name="free_shipping" {if $valueFieldPost['free_shipping'] == 1 || $free_shipping } checked="checked" {/if} />
+                                        <span>En cochant cette case, vous décidez de vous occuper vous même de l'envoi de tous vos produits (aucun bordereau d'envoi vous ne sera envoyé). La livraison apparaîtra comme "Livraison gratuite" pour vos clients.</span>
                                     </div>
                                 </div>
                                 {if isset($ETS_MP_ENABLE_MAP) && $ETS_MP_ENABLE_MAP}
