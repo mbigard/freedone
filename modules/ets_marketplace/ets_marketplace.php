@@ -2074,7 +2074,7 @@ class Ets_marketplace extends PaymentModule
                         {
                             $commission->commission = (float)Tools::ps_round(Tools::convertPrice($total_price_tax_incl,null,false) * $commistion_rate/100,6);
 // Modification @mbigard on retire le montant à l'association de la commission
-                            $commission->commission -= $order->total_products_wt * (float)$this->getPercentageAssoByIdOrder($order->id) / 100;
+                            $commission->commission -= ($order->total_products_wt * (float)$this->getPercentageAssoByIdOrder($order->id) / 100) / count($products);
                             $commission->use_tax=1;
                         }
                         if(Configuration::get('ETS_MP_COMMISSION_PENDING_WHEN') && ($status_pedding = explode(',',Configuration::get('ETS_MP_COMMISSION_PENDING_WHEN'))) && in_array($params['orderStatus']->id,$status_pedding))

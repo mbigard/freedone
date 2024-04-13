@@ -161,7 +161,7 @@
                                                                 {assign var='value_text' value=$valueFieldPost['shop_address'][$language.id_lang]}
                                                             {/if}
                                                             <input{if $language.id_lang==$id_lang_default} id="search_shop_address"{/if} type="text" class="form-control" name="shop_address_{$language.id_lang|intval}" value="{if isset($value_text)}{$value_text|escape:'html':'UTF-8'}{/if}" /> 
-                                                        </div>
+														</div>
                                                         <div class="col-lg-2">
                                                             <div class="toggle_form">
                                                             <button class="btn btn-default dropdown-toggle" type="button" tabindex="-1" data-toggle="dropdown">
@@ -192,7 +192,8 @@
                                 <div class="form-group row">
                                     <label class="col-md-3 form-control-label required"> {l s='Free Shipping' mod='ets_marketplace'} </label>
                                     <div class="col-md-9">
-                                    <input type="checkbox" name="free_shipping" {if $valueFieldPost['free_shipping'] == 1 || $free_shipping } checked="checked" {/if} />
+                                        <input type="checkbox" name="free_shipping" {if $valueFieldPost['free_shipping'] == 1 || $free_shipping } checked="checked" {/if} />
+                                        <span>En cochant cette case, vous décidez de vous occuper vous même de l'envoi de tous vos produits (aucun bordereau d'envoi vous ne sera envoyé). La livraison apparaîtra comme "Livraison gratuite" pour vos clients.</span>
                                     </div>
                                 </div>
                                 {if isset($ETS_MP_ENABLE_MAP) && $ETS_MP_ENABLE_MAP}
