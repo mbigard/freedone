@@ -123,7 +123,7 @@
 									<div class="form-group">
 										<span class="col-lg-4 control-label"><strong>{if $data['name']}{$data['name']|escape:'html':'UTF-8'}{else}{l s='Picture #' mod='ets_marketplace'}{$data@iteration|escape:'html':'UTF-8'}{/if}</strong></span>
 										<div class="col-lg-8">
-											<a href="{$link->getAdminLink('AdminCarts', true, [], ['ajax' => 1, 'action' => 'customizationImage', 'img' => $data['value'], 'name' => $order->id|intval|cat:'-file'|cat:$data@iteration])}" class="_blank">
+											<a href="{$smarty.const._THEME_PROD_PIC_DIR_|escape:'html':'UTF-8'}{$data['value']|escape:'html':'UTF-8'}" class="_blank" target="_blank">
 												<img class="img-thumbnail" src="{$smarty.const._THEME_PROD_PIC_DIR_|escape:'html':'UTF-8'}{$data['value']|escape:'html':'UTF-8'}_small" alt=""/>
 											</a>
 										</div>
