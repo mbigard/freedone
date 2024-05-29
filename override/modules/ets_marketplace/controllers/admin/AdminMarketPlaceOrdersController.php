@@ -369,7 +369,7 @@ class AdminMarketPlaceOrdersControllerOverride extends AdminMarketPlaceOrdersCon
         {
             $order['total_paid_tax_incl'] = Tools::displayPrice(Tools::convertPrice($order['total_paid_tax_incl'],$order['id_currency'],false), new Currency(Configuration::get('PS_CURRENCY_DEFAULT')));
             $order['total_commission'] = Tools::displayPrice($order['total_commission'], new Currency(Configuration::get('PS_CURRENCY_DEFAULT')));
-            $order['admin_earned'] = Tools::displayPrice($order['admin_earned'] - ($order['total_products_wt'] * (float)$this->getPercentageAssoByIdOrder($order['id_order']) / 100), new Currency(Configuration::get('PS_CURRENCY_DEFAULT')));
+            $order['admin_earned'] = Tools::displayPrice(($order['admin_earned'] - ($order['total_products_wt'] * (float)$this->getPercentageAssoByIdOrder($order['id_order']) / 100)) - (float)$order['total_discounts'], new Currency(Configuration::get('PS_CURRENCY_DEFAULT')));
             $order['current_state'] = $this->module->displayOrderState($order['current_state']);
             $order['child_view_url'] = $this->module->getLinkOrderAdmin($order['id_order']);
             if($order['id_order_seller'])
